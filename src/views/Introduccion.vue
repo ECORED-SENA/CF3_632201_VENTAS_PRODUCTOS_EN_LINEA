@@ -6,8 +6,15 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span
-          i.fas.fa-info
+          i.fas.fa-info.text-white
       h1 Introducción
+
+    p Los datos son la realidad más tangible del comercio actual, como se puede ver en el siguiente video:
+
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      
 
 </template>
 

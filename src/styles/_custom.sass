@@ -1,0 +1,351 @@
+///// images
+.img30
+  width: 30px
+.img65
+  width: 65px
+.img80
+  width: 80px
+.img90
+  width: 90px
+.img125
+  width: 125px
+.img135
+  width: 135px
+.img150
+  width: 150px
+.img180
+  width: 180px
+.img250
+  width: 250px
+.img385
+  width: 385px
+
+.ctn_01
+  width: 210px
+  
+///// textos
+
+.fas.fa-caret-right.yellow
+  color: #EEAC3A
+  margin-right: 5px
+
+.custom_H3
+  display: inline-block
+  color: #2194E5
+  padding-bottom: 5px
+  border-bottom: 3px solid #2194E5
+
+.cstm_H3_01, .cstm_H3_02,  .cstm_H3_03
+  display: inline-block
+  padding: 0.5rem 1rem
+  color: white
+
+.cstm_H3_01
+  background-color: #A3A3F8
+
+.cstm_H3_02 
+  background-color: #43A99B
+
+.cstm_H3_03  
+  background-color: #12263F
+
+.number
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: attr(data-number)   
+    position: absolute
+    top: -6rem
+    left: 0rem
+    width: 100%
+    height: 100%
+    font-weight: 700
+    font-size: 120pt
+    color: #E1E2E5
+    z-index: 0
+
+.txt--purple
+  color: #7F4FC7
+  font-weight: 700
+.txt--blue
+  color: #0B67D1
+  font-weight: 700
+
+.hg--purple
+  padding: 0.1rem 0
+  background-color: #ECE5F7
+
+//// Cajones
+.cajon
+  &.cjn--azul
+    background-color: #EEF6FC
+    &::before
+      background-color: #0B67D1
+  &.cjn--purpura
+    background-color: #ECE5F7
+    &::before
+      background-color: #7F4FC7
+  &.cjn--yellow
+    background-color: #FFFAD8
+    &::before
+      background-color: #EEAC3A
+  
+//// crds
+.fullHeight
+  height: 100%
+
+.triangles
+  position: absolute
+  bottom: 2rem
+  right: 2rem
+
+.cjn--mint
+  background-color: #DEF2F4
+  &::before
+    background-color: #26AAB7
+
+.crd
+  position: relative
+  &.crd--rad
+    border-radius: 15px
+  &.crd--celeste
+    background-color: #EEF6FC
+  &.crd--cyan
+    width: 100%
+    background-color: #DEEFFB
+    border-radius: 15px
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+  &.crd--CapLetter
+    padding: 0 1.5rem
+    background-color: #E8E8E8
+    border-radius: 15px
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+    p
+      margin-bottom: 0!important
+      color: #B6BBC1
+      font-weight: 700
+      font-size: 50pt
+  &.crd--grad_01
+    background: linear-gradient(180deg, rgba(25,137,226,1) 0%, rgba(10,81,139,1) 100%)
+  &.crd--grayGrad
+    padding: 2rem
+    height: 100%
+    background-color: #F6F6F6
+    border-radius: 15px    
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+    &:hover      
+      background: linear-gradient(180deg, rgba(25,137,226,1) 0%, rgba(10,81,139,1) 100%)
+      h4, p
+        color: white 
+  &.crd--white
+    padding: 2rem
+    background-color: white
+    border-radius: 15px
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+  &.crd-avatarH
+    position: relative
+    & > *
+      position: relative
+    &::before
+      position: absolute
+      content: ''
+      top: 0
+      right: 0
+      width: calc( 100% - 65px)
+      height: 100%
+      border-radius: 15px
+      background-color: #F4F4F4
+  &.crd--tabs
+    background-color: white
+    border: 4px solid#12263F
+    border-radius: 15px
+      
+//// backgrounds
+
+.z_top
+  z-index: 10
+
+.white--left
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    left: -3rem
+    top: -1rem
+    width: calc( 100% + 13rem )
+    height: 110%
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 51%, rgba(255,255,255,0) 100%);
+
+.white--right
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    left: -3rem
+    top: -1rem
+    width: calc( 100% + 13rem )
+    height: 110%    
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 51%, rgba(255,255,255,0) 100%);
+
+.gray--left
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    left: -3rem
+    top: -1rem
+    width: calc( 100% + 13rem )
+    height: 110%
+    background: linear-gradient(90deg, rgba(246,246,246,1) 0%, rgba(255,255,255,1) 100%)
+
+.gray--right
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    left: -10rem
+    top: -1rem
+    width: calc( 100% + 13rem )
+    height: 110%    
+    background: linear-gradient(-90deg, rgba(246,246,246,1) 60%, rgba(255,255,255,1) 100%)
+
+
+.slyderB_bg
+  position: relative
+  width: 100% 
+  background-image: url("../assets/curso/recursos/slyderB_gb.svg") 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+  border-radius: 15px
+
+.slyderB_bg_01
+  position: relative
+  width: 100% 
+  background-image: url("../assets/curso/recursos/slyderB_gb_01.svg") 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+  border-radius: 15px
+
+.bg_img_01, .bg_img_02
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    top: 0
+    left: - 3rem
+    width: calc( 100% + 6rem )
+    height: 100%   
+
+.bg_img_01
+  &::before    
+    background-image: url("../assets/curso/recursos/bg_img_01.svg")
+    background-repeat: no-repeat
+    background-position: top left
+    background-size: cover
+.bg_img_02  
+  &::before    
+    background-image: url("../assets/curso/recursos/bg_img_02.svg")
+    background-repeat: no-repeat
+    background-position: top left
+    background-size: cover
+
+///// SLyder A tipo B Custom
+.slyder-a__tipo-b .slyder-a__btn--atrs
+  background-color: #7F4FC7
+
+.slyder-a__tipo-b .slyder-a__btn--sigt
+  background-color: #7F4FC7
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-image: url("../assets/componentes/arrow_white.svg") !important
+  border: none
+
+.slyder-a__bullets__item--active
+  background-color: #EEAC3A !important
+  border: none
+
+.slyder-a__bullets__item
+  background-color: #fad28e
+
+///// Bloque-texto-a
+
+.bloque-texto-a.clr--01
+  background-color: #F6F6F6
+  &::before
+    background-color: #A3A3F8
+    
+.bloque-texto-a.clr--01A
+  background-color: #A3A3F8
+  &::before    
+    background-color: #F6F6F6
+
+.bloque-texto-a.clr--02
+  background-color: #F6F6F6
+  &::before
+    background-color: #EEAC3A
+
+.bloque-texto-a.clr--03
+  background-color: #F6F6F6
+  &::before
+    background-color: #B1DAF6
+
+///// Linea tiempo D
+
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
+  background-color: #D2C1EB
+  color: black
+
+///// Tabla Custom
+
+.tabla-a.custom_01 thead
+  border-top: none !important
+
+.tabla-a.custom_01 th
+  background-color: #FED981
+  font-size: 1rem
+  border-bottom: 4px solid #111e61  
+
+.cell--grayBlue
+  background-color: #D2E1F1
+  font-weight: 700
+
+///// SLyder F
+.slyder-f__slyde
+  padding: 2rem
+
+///// Acordion
+.acordion
+  .acordion__titulo
+    font-size: 0.8em !important
+
+  .acordion__accion__btn--b
+    width: 30px !important
+    height: 30px !important
+
+///// Tabs 
+
+.tabs-a__tab
+  background-color: #E8E8E8 !important
+  &:hover
+    background-color: #D2C1EB !important
+
+.tabs-a__tab.tabs-a__tab__selected
+  background-color: #D2C1EB !important
+  &::before
+    background-color: #D2C1EB !important
+
+
+  
