@@ -131,7 +131,7 @@ export default {
     position: absolute
     width: 120px
     top: 15%
-    right: 10%
+    right: 7%
     z-index: 99
   &_5
     animation: float1 3s ease-in-out infinite alternate
@@ -165,4 +165,39 @@ export default {
   .fondo-contenido2
     background-repeat: no-repeat
     background-size: cover
+
+@media (max-width: $bp-max-lg)
+  .imagen_flotante
+    &_1
+      animation: float1 3s ease-in-out infinite alternate
+      position: absolute
+      width: 45px
+      bottom: 15%
+      right: 40%
+    &_2
+      animation: float1 3.5s ease-in-out infinite alternate
+      position: absolute
+      width: 70px
+      bottom: 45%
+      right: 35%
+    &_3
+      animation: float1 4.5s ease-in-out infinite alternate
+      position: absolute
+      width: 55px
+      top: 15%
+      right: 33%
+    &_4
+      animation: float1 3s ease-in-out infinite alternate
+      position: absolute
+      width: 80px
+      top: 15%
+      right: 7%
+      z-index: 99
+    &_5
+      animation: float1 3s ease-in-out infinite alternate
+      position: absolute
+      width: 90px
+      bottom: 25%
+      right: 0
+      z-index: 99
 </style>

@@ -27,13 +27,13 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .gray--left
-          p Para comprender qué es un indicador, lo primero que se debe hacer es conocer la publicidad digital en el entorno de #[i marketing]. #[span.hg--purple “La Publicidad Digital son las acciones o técnicas de #[i marketing] dirigidas a captar la atención de un usuario, las cuales se realizan por intermedio de canales digitales, como referencia los display o los social ADS”]  #[span.txt--purple (Cuartin, 2020)], sin embargo, estas estrategias deben ser medidas y revisadas para validar si están alcanzando los objetivos.
+          p Para comprender qué es un indicador, lo primero que se debe hacer es conocer la publicidad digital en el entorno de #[i marketing]. #[span.hg--purple02 “La Publicidad Digital son las acciones o técnicas de #[i marketing] dirigidas a captar la atención de un usuario, las cuales se realizan por intermedio de canales digitales, como referencia los display o los social ADS”]  #[span.txt--purple (Cuartin, 2020)], sin embargo, estas estrategias deben ser medidas y revisadas para validar si están alcanzando los objetivos.
           .row
             .col-auto.d-none.d-lg-flex
               figure
                 img(src="@/assets/curso/recursos/square_06.svg", alt="alt").img30
             .col-lg
-              p Todas las mediciones se hacen por medio de los indicadores que toman acción en el plan de #[i marketing] digital de la empresa. Como lo dice #[span.txt--purple Florido (2014),] #[span.hg--purple “los indicadores, también conocidos como indicadores clave de rendimiento (KPI), le permiten monitorear constantemente cada una de las operaciones realizadas como parte de una campaña publicitaria”.] 
+              p Todas las mediciones se hacen por medio de los indicadores que toman acción en el plan de #[i marketing] digital de la empresa. Como lo dice #[span.txt--purple Florido (2014),] #[span.hg--purple02 “los indicadores, también conocidos como indicadores clave de rendimiento (KPI), le permiten monitorear constantemente cada una de las operaciones realizadas como parte de una campaña publicitaria”.] 
 
       .col-8.col-lg-4.position-relative
         figure(data-aos="fade-in")
@@ -49,10 +49,10 @@
       .row.justify-content-center.mb-5
         .col-lg-10
           .row.justify-content-center(data-aos="fade-in")
-            .col-auto
+            .col-auto.mb-4.mb-lg-0
               figure
                 img(src="@/assets/curso/temas/tema2/t2_03.png", alt="alt").img150
-            .col
+            .col-lg
               p Es muy importante aprender a seleccionar qué tipo de indicadores serán los correctos para el objetivo buscado, en este aparte se mencionarán algunos indicadores y sus características, los cuales están apoyados en la #[span.txt--purple metodología SMART, es decir, que son indicadores específicos, medibles, alcanzables, realistas y medidos por tiempo como se ve a continuación:]
 
       .row.justify-content-center
@@ -99,54 +99,54 @@
 
     .row.justify-content-center.mb-5
 
-      .col-8.col-lg-4.z_top
+      .col-8.col-lg-4.z_top.mb-4.mb-lg-0
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema2/t2_09.png", alt="alt")
       .col-lg-8(data-aos="fade-in")
         .gray--right
           h3.cstm_H3_01 ¿Qué es un KPI?
-          p Los indicadores clave de desempeño o #[span.txt--purple KPI (key performance indicator)] son valores medibles que representan la efectividad de los procesos o acciones de una empresa para lograr un objetivo, en particular tal como lo comparte #[span.txt--purple Coutinho (2015):] #[span.hg--purple “KPI viene de la sigla en inglés para Key Performance Indicator, o sea, Indicador Clave de Actuación. Son aquellas métricas más relevantes para tu estrategia, que determinan tu éxito o no”.] Los KPI son utilizados para monitorear y confirmar que se ha logrado un objetivo establecido permitiendo tomar de forma adecuada y rápida una decisión de corrección si se desvía del objetivo establecido. Los indicadores clave de desempeño no solo hacen referencia a los valores financieros, sino que se aplican a todas las áreas de la empresa. #[strong Por ejemplo, un cuadro de mando empresarial necesita recopilar KPI de diferentes áreas de la empresa que muestren valores que midan la efectividad de las estrategias implementadas.] Usando esta información en tiempo real proporcionada por los KPI, un gerente de la empresa puede redirigir las desviaciones de objetivos y tomar decisiones de corrección para planificar nuevas estrategias competitivas.
+          p Los indicadores clave de desempeño o #[span.txt--purple KPI (key performance indicator)] son valores medibles que representan la efectividad de los procesos o acciones de una empresa para lograr un objetivo, en particular tal como lo comparte #[span.txt--purple Coutinho (2015):] #[span.hg--purple02 “KPI viene de la sigla en inglés para Key Performance Indicator, o sea, Indicador Clave de Actuación. Son aquellas métricas más relevantes para tu estrategia, que determinan tu éxito o no”.] Los KPI son utilizados para monitorear y confirmar que se ha logrado un objetivo establecido permitiendo tomar de forma adecuada y rápida una decisión de corrección si se desvía del objetivo establecido. Los indicadores clave de desempeño no solo hacen referencia a los valores financieros, sino que se aplican a todas las áreas de la empresa. #[strong Por ejemplo, un cuadro de mando empresarial necesita recopilar KPI de diferentes áreas de la empresa que muestren valores que midan la efectividad de las estrategias implementadas.] Usando esta información en tiempo real proporcionada por los KPI, un gerente de la empresa puede redirigir las desviaciones de objetivos y tomar decisiones de corrección para planificar nuevas estrategias competitivas.
 
     .cajon.cjn--yellow.p-4.mb-5(data-aos="fade-in")
       p.mb-0 De igual forma es importante saber elegir los KPI apropiados para monitorear la estrategia de #[i marketing] digital, como primera medida a considerar a la hora del establecimiento de los indicadores se debe tener en cuenta los objetivos principales de la empresa. Las métricas que se elijan deben proporcionar la información necesaria para estar al tanto si está en camino de alcanzar esos objetivos, también se deben considerar las estrategias adecuadas para incorporar en campañas de publicidad digital.
 
     .row.justify-content-center.mb-5
       .col-lg-10
-        .row.justify-content-center(data-aos="fade-in")
-          .col-auto
+        .row.justify-content-center.align-items-center(data-aos="fade-in")
+          .col-auto.mb-4.mb-lg-0
             figure
               img(src="@/assets/curso/temas/tema2/t2_03.png", alt="alt").img150
-          .col
-            p Conociendo qué es un indicador y cuáles son los más relevantes, se pueden tener en cuenta las siguientes pautas para que los datos obtenidos en esos indicadores sean de valor para la empresa:
+          .col-lg
+            p.mb-0 Conociendo qué es un indicador y cuáles son los más relevantes, se pueden tener en cuenta las siguientes pautas para que los datos obtenidos en esos indicadores sean de valor para la empresa:
 
-    .slyderB_bg_01.px-5.py-3
+    .slyderB_bg_01.px-4.px-lg-5.py-3
       SlyderA(tipo="b")
-        .row.justify-content-center.align-items-center.my-lg-4
+        .row.justify-content-around.align-items-center.my-lg-4
           .col-lg-6.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
             .number(data-number="01")                  
               p.ps-4.mb-0 Comparar los resultados obtenidos con los objetivos; es decir, si el objetivo es aumentar el número de seguidores de la red social en un 40%, lo que debe comparar es el número de seguidores actuales con el número de seguidores del mes pasado o de la última medición.                  
-          .col-6.col-lg-3
+          .col-lg-4.col-6
             figure
               img(src='@/assets/curso/temas/tema2/t2_10.svg')  
 
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-6.col-lg-4.order-2.order-lg-1
+        .row.justify-content-around.align-items-center.my-lg-4
+          .col-lg-4.col-6.order-2.order-lg-1
             figure
               img(src='@/assets/curso/temas/tema2/t2_11.svg')
           .col-lg-6.order-1.order-lg-2.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
             .number(data-number="02")                 
               p.ps-4.mb-0 Tener presente y determinar las fuentes de tráfico; hace referencia a cómo los seguidores llegan a la página web, si es por páginas pagas, redes sociales, búsqueda frecuente, o por referidos, de esta forma podrá saber cuál es medio de tráfico adecuado para una próxima eventualidad o campaña y cuál le arrojará mejores resultados.
 
-        .row.justify-content-center.align-items-center.my-lg-4
+        .row.justify-content-around.align-items-center.my-lg-4
           .col-lg-6.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
             .number(data-number="03")                  
               p.ps-4.mb-0 Observar y analizar la interacción del consumidor con el sitio web o publicación, se debe generar la siguiente pregunta ¿qué hacen los usuarios que visitan el sitio web? Es transcendental saberlo porque puede ver qué tan bien está funcionando su estrategia de #[i marketing] digital. De igual forma, se debe prestar atención a los comentarios que deja el público en general en las redes sociales. Estos comentarios son información de alto valor, puesto que ayudan a mejorar las estrategias de negocio y captación de seguidores y compradores.                
-          .col-6.col-lg-3
+          .col-lg-4.col-6
             figure
               img(src='@/assets/curso/temas/tema2/t2_12.svg')  
 
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-6.col-lg-4.order-2.order-lg-1
+        .row.justify-content-around.align-items-center.my-lg-4
+          .col-lg-4.col-6.order-2.order-lg-1
             figure
               img(src='@/assets/curso/temas/tema2/t2_13.svg')
           .col-lg-6.order-1.order-lg-2.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
@@ -239,13 +239,13 @@
       .row.justify-content-center.align-items-center
         .col-lg-8(data-aos="fade-in")
           .white--left
-            p Como se sabe, esta métrica se trata de si un visitante es un cliente, o si un visitante hace lo que quiere la campaña, por ejemplo, que se vuelva un seguidor de redes sociales. Para hacer esto, es importante considerar tres secciones diferentes que lo ayudarán a determinar si se necesita optimización. Estas secciones son la cantidad de visitantes que agregaron artículos a su carrito de compras, la cantidad de progresos para finalizar la compra y la cantidad de compras. Cada sección contiene información importante sobre el rendimiento de su tienda en línea.
+            p Como se sabe, esta métrica se trata de si un visitante es un cliente, o si un visitante hace lo que quiere la campaña, por ejemplo, que se vuelva un seguidor de redes sociales. #[strong Para hacer esto, es importante considerar tres secciones diferentes que lo ayudarán a determinar si se necesita optimización.] Estas secciones son la cantidad de visitantes que agregaron artículos a su carrito de compras, la cantidad de progresos para finalizar la compra y la cantidad de compras. Cada sección contiene información importante sobre el rendimiento de su tienda en línea.
             .row
               .col-auto.d-none.d-lg-flex
                 figure
                   img(src="@/assets/curso/recursos/square_06.svg", alt="alt").img30
               .col-lg
-                p.mb-4 #[span.txt-purple Las estrategias de #[i marketing] para el entorno digital deben centrarse en crear cierto tipo de conversión], desde el propio sitio web hasta una determinada acción y para eso se deben orientar algunas acciones como se puede ver a continuación:
+                p.mb-4 #[span.txt--purple Las estrategias de #[i marketing] para el entorno digital deben centrarse en crear cierto tipo de conversión], desde el propio sitio web hasta una determinada acción y para eso se deben orientar algunas acciones como se puede ver a continuación:
 
         .col-8.col-lg-4
           figure(data-aos="zoom-in")
@@ -295,7 +295,7 @@
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema2/t2_24.svg", alt="alt")
       .col-lg-8
-        p.mb-0 Teniendo una base sólida de medición de ventas, fácilmente se conducirá a orientar mejores resultados de negocios y por supuesto de ingresos, rentabilidad día a día y una mejor rotación de clientes con mejores resultados de estrategias de intervención y para esto se debe medir como lo dice #[span.txt--purple Bello (2021)], #[span.hg--purple “la gran mayoría de las organizaciones calculan las actividades de las estrategias de #[i marketing], por supuestos, y no por datos de medición de ventas reales, con demasiada periodicidad, y no aprovechan al máximo todos los escenarios que les permitan realizar mejores mediciones de acuerdo a las ventas”,] por ejemplo, estas mediciones no conducen a operaciones útiles, no se comparten entre equipos y no permiten indicar disposiciones estratégicas importantes, es decir si los equipos de trabajo se dividen, unos optimizando el tráfico del portal web y otro equipo el tráfico peatonal de una tienda en línea pero no tienen comunicación alguna, aquí la organización no cuenta con una estrategia clara y aplicará todas las métricas de forma inadecuada. En cambio, #[strong los líderes de #[i marketing] movilizan a los equipos para que trabajen de manera más colaborativa entre canales y departamentos, brindando la experiencia adecuada a los clientes correctos en el momento correcto.]
+        p.mb-0 Teniendo una base sólida de medición de ventas, fácilmente se conducirá a orientar mejores resultados de negocios y por supuesto de ingresos, rentabilidad día a día y una mejor rotación de clientes con mejores resultados de estrategias de intervención y para esto se debe medir como lo dice #[span.txt--purple Bello (2021)], #[span.hg--purple02 “la gran mayoría de las organizaciones calculan las actividades de las estrategias de #[i marketing], por supuestos, y no por datos de medición de ventas reales, con demasiada periodicidad, y no aprovechan al máximo todos los escenarios que les permitan realizar mejores mediciones de acuerdo a las ventas”,] por ejemplo, estas mediciones no conducen a operaciones útiles, no se comparten entre equipos y no permiten indicar disposiciones estratégicas importantes, es decir si los equipos de trabajo se dividen, unos optimizando el tráfico del portal web y otro equipo el tráfico peatonal de una tienda en línea pero no tienen comunicación alguna, aquí la organización no cuenta con una estrategia clara y aplicará todas las métricas de forma inadecuada. En cambio, #[strong los líderes de #[i marketing] movilizan a los equipos para que trabajen de manera más colaborativa entre canales y departamentos, brindando la experiencia adecuada a los clientes correctos en el momento correcto.]
 
     .cajon.cjn--yellow.p-4.mb-5
       p.mb-0 En #[i marketing], los lideres empresariales comprenden que los clientes son el mayor valor de por vida para un negocio, por ello crean todo el contenido apropiado para el desarrollo de las campañas encaminadas a esos clientes. #[strong Las acciones de #[i marketing] que se generan están vinculadas a los objetivos comerciales y conducen a mejores resultados para la organización.] Por esto, la medición juega un papel importante en la construcción de una ciencia orientada para el cliente que adopta un enfoque de aprendizajes constantes y pruebas. 
@@ -303,30 +303,33 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .row.justify-content-center.align-items-center(data-aos="fade-in")
-          .col-auto
+          .col-auto.mb-4.mb-lg-0
             figure
               img(src="@/assets/curso/temas/tema2/t2_03.png", alt="alt").img150
-          .col
-            p.mb-0 Las empresas que han logrado los beneficios de la medición de ventas dedican un tiempo adecuado y esfuerzo notorio en demostrar sus capacidades, las cuales se enfocan en tres áreas de intervención principalmente:
+          .col-lg
+            p.mb-0 #[strong Las empresas que han logrado los beneficios de la medición de ventas dedican un tiempo adecuado y esfuerzo notorio en demostrar sus capacidades, las cuales se enfocan en tres áreas de intervención principalmente:]
 
     .bg_img_01
       .row.justify-content-center.mb-5
         .col-lg-4.mb-4.mb-lg-0
           .crd.crd--grayGrad(data-aos="flip-left")
-            figure
-              img(src="@/assets/curso/temas/tema2/t2_25.png", alt="alt").img135.m-auto
+            .bottomCircle.mb-5
+              figure
+                img(src="@/assets/curso/temas/tema2/t2_25.png", alt="alt").img90.m-auto
             h4.text-center La medición
             p.text-center.mb-0 Los lideres del #[i marketing] se encargan de caracterizar todos los puntos de contacto de un cliente determinado y sus principales datos, conociendo los comportamientos y las prioridades de cada cliente con el fin de enlazar las acciones de #[i marketing] con los resultados comerciales.
         .col-lg-4.mb-4.mb-lg-0
           .crd.crd--grayGrad(data-aos="flip-left")
-            figure
-              img(src="@/assets/curso/temas/tema2/t2_26.png", alt="alt").img135.m-auto
+            .bottomCircle.mb-5
+              figure
+                img(src="@/assets/curso/temas/tema2/t2_26.png", alt="alt").img90.m-auto
             h4.text-center Activasión
             p.text-center.mb-0 Se enfoca en la toma asertiva de decisiones por intermedio de instrumentos de automatización con el fin de poder conectarse con los posibles clientes a gran escala, teniendo en cuenta que la estrategia será personalizada, dando respuesta a lo requerido por el cliente.
         .col-lg-4.mb-4.mb-lg-0
           .crd.crd--grayGrad(data-aos="flip-left")
-            figure
-              img(src="@/assets/curso/temas/tema2/t2_26.png", alt="alt").img135.m-auto
+            .bottomCircle.mb-5
+              figure
+                img(src="@/assets/curso/temas/tema2/t2_26.png", alt="alt").img90.m-auto
             h4.text-center Formas de trabajar
             p.text-center.mb-0 Se centran en estructurar equipos agiles y de respuesta a oportuna, exclusivamente para los clientes, haciendo referencia a las tendencias de #[i marketing], teniendo en cuenta las perspectivas de medición y los canales en los que desarrollan.
 
@@ -355,65 +358,65 @@
       p.mb-0 De hecho, las herramientas de #[i marketing] digital son un ejemplo de una solución que las empresas están buscando para reducir los costos de adquisición de clientes (CAC), ya sea que implemente técnicas, básicas o avanzadas, son manejadas por la gran mayoría de empresas.  A continuación, se hablará de los diferentes tipos de herramientas de #[i marketing]:
 
     .row.justify-content-center
-      .col-7.col-lg-4(data-aos="zoom-in").mb-5.mb-lg-0
+      .col-lg-5.col-7(data-aos="zoom-in").mb-5.mb-lg-0
         figure
           img(src="@/assets/curso/temas/tema2/t2_29.png", alt="alt")
-      .col-lg-8
+      .col-lg-7
         LineaTiempoD.color-primario
-          .row(numero="1" titulo="Herramienta de automatización de <i>marketing</i>")
-            .col-auto
+          .row.justify-content-center(numero="1" titulo="Herramienta de automatización de <i>marketing</i>")
+            .col-auto.pt-2.mb-3
               figure
-                img(src="@/assets/curso/temas/tema2/t2_30.svg", alt="alt").img65
-            .col
+                img(src="@/assets/curso/temas/tema2/t2_30.svg", alt="alt").img90
+            .col-lg
               p.mb-0 Abarcan muchos canales, tales como, página de destino, #[i marketing] por correo electrónico y flujo de automatización de correo electrónico. Esto simplifica y amplía la gestión de leads en su embudo de comercialización, esto es simplemente la ampliación en el volumen de leads que estén listos para realizar para la compra, y el cual será direccionado al equipo de ventas. 
 
-          .row(numero="2" titulo="Herramienta de <i>Email Marketing</i>")
-            .col-auto
+          .row.justify-content-center(numero="2" titulo="Herramienta de <i>Email Marketing</i>")
+            .col-auto.pt-2.mb-3
               figure
-                img(src="@/assets/curso/temas/tema2/t2_31.svg", alt="alt").img65
-            .col
+                img(src="@/assets/curso/temas/tema2/t2_31.svg", alt="alt").img90
+            .col-lg
               p.mb-0 Podría decirse que es principal canal de comunicación y de relaciones con el cliente, porque después del primer contacto tiene con la organización, este se convierte en lead. 
 
-          .row(numero="3" titulo="Herramienta para creación de landing pages")
-            .col-auto
+          .row.justify-content-center(numero="3" titulo="Herramienta para creación de landing pages")
+            .col-auto.pt-2.mb-3
               figure
-                img(src="@/assets/curso/temas/tema2/t2_32.svg", alt="alt").img65
-            .col
+                img(src="@/assets/curso/temas/tema2/t2_32.svg", alt="alt").img90
+            .col-lg
               p.mb-0 Las páginas de destino son páginas diseñadas para aceptar visitantes y volverlos clientes potenciales, posterior a esto, el visitante será un contacto u oportunidad de negocio, de igual forma a través de las landing se podrán ofertar contenidos importantes con el fin de poder enrolar al visitante a que permita obtener sus datos personales, y crear una relación con el cliente y de esta forma poder enviarle los contenidos adecuados de acuerdo su perfil y preferencias.
 
-          .row(numero="4" titulo="Plataforma de <i>marketing</i> de contenidos")
-            .col-auto
+          .row.justify-content-center(numero="4" titulo="Plataforma de <i>marketing</i> de contenidos")
+            .col-auto.pt-2.mb-3
               figure
-                img(src="@/assets/curso/temas/tema2/t2_37.svg", alt="alt").img65
-            .col
+                img(src="@/assets/curso/temas/tema2/t2_37.svg", alt="alt").img90
+            .col-lg
               p.mb-0 La mayoría de las organizaciones aún no han utilizado la plataforma adecuada para registrar y documentar cuáles serían las estrategias de planificación y elaboración de contenido adecuadas. Estas herramientas de contenidos podrán agilizar los procesos. Desde la gestión de blogs hasta la creación de publicaciones, lo que le permitirá ahorrar tiempo y aumentar la eficiencia.
 
-          .row(numero="5" titulo="Herramienta de SEO (Search Engine Optimization)")
-            .col-auto
+          .row.justify-content-center(numero="5" titulo="Herramienta de SEO (<i>Search Engine Optimization</i>)")
+            .col-auto.pt-2.mb-3
               figure
-                img(src="@/assets/curso/temas/tema2/t2_33.svg", alt="alt").img65
-            .col
+                img(src="@/assets/curso/temas/tema2/t2_33.svg", alt="alt").img90
+            .col.pt-2.mb-3
               p.mb-0 Contemplan como objetivo principal el ayudar a las organizaciones a mejorar la posición en los buscadores más comunes como Mozilla o Google, dichas plataformas cuentan con diversas funciones las cuales podrán optimizar los sitios por intermedio de análisis y plugins.
 
-          .row(numero="6" titulo="Herramienta de Analytics")
-            .col-auto
+          .row.justify-content-center(numero="6" titulo="Herramienta de <i>Analytics</i>")
+            .col-auto.pt-2.mb-3
               figure
-                img(src="@/assets/curso/temas/tema2/t2_34.svg", alt="alt").img65
-            .col
+                img(src="@/assets/curso/temas/tema2/t2_34.svg", alt="alt").img90
+            .col-lg
               p.mb-0 Medir el resultado del comportamiento en línea es fundamental para lograr los principales datos de un negocio. Esto se puede hacer utilizando la plataforma de análisis para campañas de #[i marketing] digital. Los beneficios de usar este tipo de plataforma incluyen evaluar y comprender el interés del visitante en el sitio web.
 
-          .row(numero="7" titulo="CMS (Sistema de Gestión de Contenidos)")
-            .col-auto
+          .row.justify-content-center(numero="7" titulo="CMS (Sistema de Gestión de Contenidos)")
+            .col-auto.pt-2.mb-3
               figure
-                img(src="@/assets/curso/temas/tema2/t2_35.svg", alt="alt").img65
-            .col
+                img(src="@/assets/curso/temas/tema2/t2_35.svg", alt="alt").img90
+            .col-lg
               p.mb-0 Son indispensables para crear blogs y sitios, porque permiten diseñar, editar y publicar diferentes tipos de contenidos, de igual forma permite añadir contenidos divulgados en otras plataformas, como podcasts o videos de YouTube.              
 
-          .row(numero="8" titulo="Herramienta de monitorización de redes sociales")
-            .col-auto
+          .row.justify-content-center(numero="8" titulo="Herramienta de monitorización de redes sociales")
+            .col-auto.pt-2.mb-3
               figure
-                img(src="@/assets/curso/temas/tema2/t2_36.svg", alt="alt").img65
-            .col
+                img(src="@/assets/curso/temas/tema2/t2_36.svg", alt="alt").img90
+            .col-lg
               p.mb-0 El software de monitoreo de redes sociales ayuda a optimizar las acciones de construcción de comunidades. Estas herramientas ayudarán a logar mayor productividad al momento de programar lanzamientos de contenido, permitiendo realizar un seguimiento adecuado de las menciones de una marca, producto o servicio de una organización, de igual forma se podrá valorar los intereses de una audiencia y la capacidad de respuesta a las publicaciones.
 
     separador
@@ -437,29 +440,29 @@
       TabsA.mb-5    
         .crd.crd--tabs.p-4(titulo="La venta consultiva")
           h4 La venta consultiva
-          .row
-            .col-auto
+          .row.justify-content-center
+            .col-auto.mb-4.mb-lg-0
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/temas/tema2/t2_40.svg", alt="alt").img150
-            .col
+            .col-lg
               p El agente comercial se transforma en el asesor del cliente, puesto que su estrategia le permite estar en el lugar adecuado, allí por lo general escucha a los clientes durante un largo período de tiempo. Por intermedio de esta habilidad, los vendedores conocen a los clientes, les brindan lo que necesitan y ganan autoridad como asesores.
 
         .crd.crd--tabs.p-4(titulo="Ventas Inbound")
           h4 Ventas Inbound
-          .row
-            .col-auto
+          .row.justify-content-center
+            .col-auto.mb-4.mb-lg-0
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/temas/tema2/t2_39.svg", alt="alt").img150
-            .col
+            .col-lg
               p Es excelente para cautivar clientes brindándoles contenido que sea selecto para ellos, en lugar de brindarles noticias que por lo general no son de interés. Los clientes y consumidores de hoy en día buscan información (en Internet) antes de ponerse en contacto con un vendedor. Los compradores están en capacidad de bloquear mensajes y métodos de venta que no son relevantes para ellos (teléfonos, anuncios de televisión, etc.). Los clientes tienen el control total de la experiencia, por lo que los vendedores deben acoger un enfoque más humano en las ventas y obtener más apoyo.
 
         .crd.crd--tabs.p-4(titulo="El enfoque de <i>DataBranding</i> es el de <i>Inbound</i>")
           h4 El enfoque de <i>DataBranding</i> es el de <i>Inbound</i>
-          .row
-            .col-auto
+          .row.justify-content-center
+            .col-auto.mb-4.mb-lg-0
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/temas/tema2/t2_41.svg", alt="alt").img150
-            .col
+            .col-lg
               p Es un enfoque inbound, para todo el entorno de #[i marketing] y para ventas, la gran mayoría de consumidores y compradores buscan la información de un producto o servicio que les interese a través de una web, Ellos son los que buscan sus necesidades y obtienen la información, y solo contactan con el vendedor cuando tienen la información que necesitan. Por lo tanto, es importante brindarles contenido de alta calidad que sea selecto para ellos y que realmente los apoye a solucionar la dificultad que presenten al momento de hacer una compra.
 
     .cajon.cjn--azul.p-4.mb-4
@@ -479,7 +482,7 @@
             img(src="@/assets/curso/temas/tema2/t2_42.svg", alt="alt")
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p #[span.txt--purple Antes de la contingencia sanitaria que hace unos años sacudió al mundo por el Covid-19, las herramientas digitales ya eran un hábito entre los consumidores, convirtiéndose en una actividad clave para el desarrollo de muchas de las tareas diarias.] Por lo tanto, las organizaciones necesitan invertir en medios digitales para cumplir con esta realidad y llegar a sus clientes. Esto significa que necesitan invertir en #[i marketing digital]. Además, el #[i marketing] incluye una variedad de acciones cuyo propósito primordial es promocionar un producto, servicio o empresa a través de una variedad de plataformas digitales. De igual forma, representa una buena alternativa para aumentar las oportunidades de negocio y, en consecuencia, aumentar los ingresos.
+            p #[span.txt--purple Antes de la contingencia sanitaria que hace unos años sacudió al mundo por el Covid-19, las herramientas digitales ya eran un hábito entre los consumidores, convirtiéndose en una actividad clave para el desarrollo de muchas de las tareas diarias.] Por lo tanto, las organizaciones necesitan invertir en medios digitales para cumplir con esta realidad y llegar a sus clientes. Esto significa que necesitan invertir en #[i #[strong marketing digital]]. Además, el #[i marketing] incluye una variedad de acciones cuyo propósito primordial es promocionar un producto, servicio o empresa a través de una variedad de plataformas digitales. De igual forma, representa una buena alternativa para aumentar las oportunidades de negocio y, en consecuencia, aumentar los ingresos.
 
     p.mb-5 #[strong De tal forma que se hablará de cuáles son los segmentos que se manejan en una estrategia que busca tener impacto en un mercado digital por medio de las siguientes recomendaciones:]
 
@@ -533,7 +536,7 @@
       .row.m-0.align-items-center.justify-content-between        
         .col-12
           .bloque-texto-a__texto.p-4
-            p.mb-0 El #[i marketing] digital maneja diversas herramientas que suministran la medición de los resultados en tiempo presente, estas herramientas proporcionan resultados óptimos y de precisión por la variedad de métricas que desarrollan.
+            p.mb-0 #[strong El #[i marketing] digital maneja diversas herramientas que suministran la medición de los resultados en tiempo presente, estas herramientas proporcionan resultados óptimos y de precisión por la variedad de métricas que desarrollan.]
 
 
 

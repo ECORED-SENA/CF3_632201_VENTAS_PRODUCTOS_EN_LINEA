@@ -19,9 +19,23 @@
   width: 250px
 .img385
   width: 385px
-
 .ctn_01
   width: 210px
+
+.bottomCircle
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%,-50%)
+    width: 115px
+    height: 115px
+    background-color: #116EB9
+    border-radius: 999px
   
 ///// textos
 
@@ -63,18 +77,43 @@
     font-weight: 700
     font-size: 120pt
     color: #E1E2E5
-    z-index: 0
+    z-index: -1
+  &::after
+    content: ''
+    position: absolute
+    bottom: -1rem
+    right: -1rem
+    width: 60%
+    height: 30%
+    background-color: #DEF2F4
+    z-index: -1
+  &.num--left
+    &::after
+      content: ''
+      position: absolute
+      bottom: 0
+      left: 10%
+      width: 90%
+      height: 50px
+      background-color: #DEF2F4
+      z-index: -1
+
 
 .txt--purple
   color: #7F4FC7
   font-weight: 700
 .txt--blue
   color: #0B67D1
-  font-weight: 700
+  font-weight: 600
 
 .hg--purple
   padding: 0.1rem 0
   background-color: #ECE5F7
+
+.hg--purple02
+  padding: 0.1rem 0
+  background-color: #ECE5F7
+  font-weight: 700
 
 //// Cajones
 .cajon
@@ -93,12 +132,7 @@
   
 //// crds
 .fullHeight
-  height: 100%
-
-.triangles
-  position: absolute
-  bottom: 2rem
-  right: 2rem
+  height: 100% 
 
 .cjn--mint
   background-color: #DEF2F4
@@ -109,13 +143,16 @@
   position: relative
   &.crd--rad
     border-radius: 15px
+    
   &.crd--celeste
     background-color: #EEF6FC
+
   &.crd--cyan
     width: 100%
     background-color: #DEEFFB
     border-radius: 15px
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+  
   &.crd--CapLetter
     padding: 0 1.5rem
     background-color: #E8E8E8
@@ -126,8 +163,10 @@
       color: #B6BBC1
       font-weight: 700
       font-size: 50pt
+
   &.crd--grad_01
     background: linear-gradient(180deg, rgba(25,137,226,1) 0%, rgba(10,81,139,1) 100%)
+
   &.crd--grayGrad
     padding: 2rem
     height: 100%
@@ -138,11 +177,16 @@
       background: linear-gradient(180deg, rgba(25,137,226,1) 0%, rgba(10,81,139,1) 100%)
       h4, p
         color: white 
+      .bottomCircle
+        &::before
+          background-color: #FED981
+
   &.crd--white
     padding: 2rem
     background-color: white
     border-radius: 15px
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+  
   &.crd-avatarH
     position: relative
     & > *
@@ -156,10 +200,42 @@
       height: 100%
       border-radius: 15px
       background-color: #F4F4F4
+
+  &.crd-avatarH_Blue
+    position: relative
+    height: 100%
+    & > *
+      position: relative
+    &::before
+      position: absolute
+      content: ''
+      top: 0
+      right: 0
+      width: calc( 100% - 65px)
+      height: 100%
+      border-radius: 15px
+      background: linear-gradient(180deg, rgba(25,137,226,1) 0%, rgba(10,81,139,1) 100%)
+    &::after
+      position: absolute
+      content: ''     
+      bottom: 1rem
+      right: 1rem
+      width: 81px
+      height: 24px 
+      background-image: url("../assets/curso/recursos/triangles.svg")
+      background-repeat: no-repeat
+      background-position: top left
+      background-size: cover
+
   &.crd--tabs
     background-color: white
     border: 4px solid#12263F
     border-radius: 15px
+
+.patterns
+  position: absolute
+  bottom: 5%
+  right: 5%
       
 //// backgrounds
 
@@ -307,6 +383,7 @@
 .linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
   background-color: #D2C1EB
   color: black
+ 
 
 ///// Tabla Custom
 
@@ -318,6 +395,15 @@
   font-size: 1rem
   border-bottom: 4px solid #111e61  
 
+.tabla-a.custom_01, .tabla-a.custom_02
+  border-bottom: 7px solid #D2E1F1
+
+.tabla-a.custom_02 thead
+  border-top: 5px solid #EEAC3A
+  background-color: #D2E1F1
+  th
+    font-size: 1em !important
+
 .cell--grayBlue
   background-color: #D2E1F1
   font-weight: 700
@@ -325,6 +411,12 @@
 ///// SLyder F
 .slyder-f__slyde
   padding: 2rem
+
+@media (max-width: 600px)
+  .slyder-a__bullets__item
+    width: 10px
+    height: 10px
+
 
 ///// Acordion
 .acordion
@@ -347,5 +439,13 @@
   &::before
     background-color: #D2C1EB !important
 
+
+/////// Bloque texto g
+.bloque-texto-g.color-secundario
+  background-color: #A4A3FF
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #D2C1EB !important
+  color: $color-sistema-a
 
   

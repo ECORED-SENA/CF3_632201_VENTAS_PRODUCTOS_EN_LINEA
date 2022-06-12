@@ -25,28 +25,28 @@
         .slyderB_bg.p-4
           SlyderA(tipo="b")
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-lg-8
+              .col-lg-8.mb-4.mb-lg-0
                 p.mb-0 Tenga claro el segmento de sus clientes de acuerdo con sus productos y el contenido que ofrece, es decir, qué campañas digitales dan respuesta oportuna a su marca.          
               .col-4.col-lg-4
                 figure
                   img(src='@/assets/curso/temas/tema1/t1_03.svg')
 
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-lg-8
+              .col-lg-8.mb-4.mb-lg-0
                 p.mb-0 Tener una base de datos de los clientes le proporcionará herramientas para la realización de nuevas campañas de acuerdo con las tendencias, eventos o hechos actuales, esto podrá proporcionarle una gran ventaja de comercialización ágil y rápida.          
               .col-4.col-lg-4
                 figure
                   img(src='@/assets/curso/temas/tema1/t1_04.svg')
 
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-lg-8
+              .col-lg-8.mb-4.mb-lg-0
                 p.mb-0 Al momento de contar con una buena base de datos, usted podrá medir que tan eficiente será la campaña de su marca, servicio o producto puesto que estará en capacidad de tener un rendimiento métrico preciso de acuerdo con su herramienta de análisis de información.          
               .col-4.col-lg-4
                 figure
                   img(src='@/assets/curso/temas/tema1/t1_05.svg')
 
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-lg-8
+              .col-lg-8.mb-4.mb-lg-0
                 p.mb-0 Si usted desarrolla un correcto análisis de sus bases de datos, tendrá la facilidad de acomodarse a nuevos nichos de mercado y sus adecuados canales de comunicación, basándose en el análisis de su información como estrategia de mercadeo.          
               .col-4.col-lg-4
                 figure
@@ -85,28 +85,34 @@
                 figure
                   img(src="@/assets/curso/recursos/square_01.svg", alt="alt").img65
               .col-lg
-                p.mb-4 A continuación, se definen los dos conceptos más relevantes para la gestión de los datos en dos términos que se vuelven parte fundamental del proceso, los cuales son los datos y la información:     
+                p.txt--purple.mb-4 A continuación, se definen los dos conceptos más relevantes para la gestión de los datos en dos términos que se vuelven parte fundamental del proceso, los cuales son los datos y la información:     
         .col-8.col-lg-4
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema1/t1_08.png", alt="alt")
 
       .row.justify-content-center.mb-5
-        .col-lg-6(data-aos="flip-left").mb-4.mb-lg-0
-          .crd.crd--grad_01.crd--rad.fullHeight.p-5
-            figure.mb-4
-              img(src="@/assets/curso/temas/tema1/t1_10.svg", alt="alt").img250
-            p.text-white.mb-4 Esta es la unidad elemental en la que se guarda, trasfiere y procesa la información. El significado que los seres humanos le otorga a los datos los convierte en información, puede decirse que es un hecho que permite describir un evento o situación, "Datos" es el plural que se refiere a múltiples hechos. Los datos se transmiten a través de varios tipos de símbolos, tales como números (0-9), letras del alfabeto (A-Z, a-z), o caracteres especiales (+,-, /, *, <, >, = etc..). 
-            .triangles
-              figure
-                img(src="@/assets/curso/recursos/triangles_01.svg", alt="alt").img80
-        .col-lg-6(data-aos="flip-left")
-          .crd.crd--grad_01.crd--rad.fullHeight.p-5
-            figure.mb-4
-              img(src="@/assets/curso/temas/tema1/t1_09.svg", alt="alt").img250
-            p.text-white.mb-4 La información son datos organizados o categorizados que son significativos para el destinatario, se usa en la toma de decisiones y acciones. La información debe ser curada para evitar errores en su interpretación, es por eso que debe ser oportuna (actual), exacta (cierta) e integral (completa y objetiva).
-            .triangles
-              figure
-                img(src="@/assets/curso/recursos/triangles_01.svg", alt="alt").img80
+        .col-xl-6.mb-4.mb-xl-0(data-aos="flip-left")
+          .crd.crd-avatarH_Blue
+            .row.p-4
+              .col-auto
+                figure
+                  img(src="@/assets/curso/temas/tema1/t1_09.svg", alt="alt").img90
+              .col
+                h4.text-white Dato
+                p.text-white.mb-5 Esta es la unidad elemental en la que se guarda, trasfiere y procesa la información. El significado que los seres humanos le otorga a los datos los convierte en información, puede decirse que es un hecho que permite describir un evento o situación, "Datos" es el plural que se refiere a múltiples hechos. Los datos se transmiten a través de varios tipos de símbolos, tales como números (0-9), letras del alfabeto (A-Z, a-z), o caracteres especiales (+,-, /, *, <, >, = etc..). 
+                
+
+        .col-xl-6.mb-4.mb-xl-0(data-aos="flip-left")
+          .crd.crd-avatarH_Blue
+            .row.p-4
+              .col-auto
+                figure
+                  img(src="@/assets/curso/temas/tema1/t1_10.svg", alt="alt").img90
+              .col
+                h4.text-white información
+                p.text-white.mb-5 La información son datos organizados o categorizados que son significativos para el destinatario, se usa en la toma de decisiones y acciones. La información debe ser curada para evitar errores en su interpretación, es por eso que debe ser oportuna (actual), exacta (cierta) e integral (completa y objetiva).
+                       
+        
 
     .bloque-texto-a.clr--01.p-4.p-md-5.mb-5(data-aos="fade-in")
       .row.m-0.align-items-center.justify-content-between        
@@ -138,7 +144,7 @@
             .col-lg
               p.mb-0 Los datos son tan variados que deben ser jerarquizados, puesto que su recolección se refiere a un orden específico, por eso se entienden inicialmente como datos primarios y secundarios de los cuales se expone a continuación su concepto:
 
-          p.mb-0 #[span.hg--purple “Es importante tener en cuenta que los datos primarios y datos secundarios en el mundo del #[i marketing] desarrollan una función vital e importante dentro de un proceso de planificación puesto que estos se utilizan de base para los análisis de mercados y decisiones estratégicas de un área de cualquier organización”] #[span.txt--purple Joyanes (2013)], todo lo anterior orientado a un solo fin y es que los productos y las campañas que constantemente se realizan sean realmente eficientes, arrojando resultados de alto impacto dentro de la organización. Se debe tener un conocimiento previo de que son los datos primarios y los datos secundarios de marketing y cuál es su utilidad.
+          p.mb-0 #[span.hg--purple02 “Es importante tener en cuenta que los datos primarios y datos secundarios en el mundo del #[i marketing] desarrollan una función vital e importante dentro de un proceso de planificación puesto que estos se utilizan de base para los análisis de mercados y decisiones estratégicas de un área de cualquier organización”] #[span.txt--purple Joyanes (2013)], todo lo anterior orientado a un solo fin y es que los productos y las campañas que constantemente se realizan sean realmente eficientes, arrojando resultados de alto impacto dentro de la organización. Se debe tener un conocimiento previo de que son los datos primarios y los datos secundarios de marketing y cuál es su utilidad.
 
     .cajon.cjn--purpura.p-4.mb-4(data-aos="fade-in")
       p.mb-0 Dentro de un proceso de planificación en referencia a las ventas en línea, los datos primarios y secundarios son esenciales para la investigación del mercado, puesto que ayudarán a comprender mejor a los consumidores, el ¿cómo puede segmentar su audiencia? Comprender su comportamiento y expectativas, y comprender ¿cuál fue la reaccionan a la estrategia de marca? Puede extraer diferentes conocimientos y crear #[i marketing] de manera más precisa y eficiente gracias a estos elementos.
@@ -164,13 +170,13 @@
     figure(data-aos="zoom-in").mb-5
       img(src="@/assets/curso/temas/tema1/t1_14.svg", alt="alt")
 
-    p.mb-5 Para entender el concepto de datos primarios y secundarios se debe revisar la siguiente tabla comparativa:
+    p.mb-5 #[strong Para entender el concepto de datos primarios y secundarios se debe revisar la siguiente tabla comparativa:]
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1.
       span Datos primarios y secundarios
 
-    .tabla-a.color-acento-botones.mb-5 
+    .tabla-a.custom_02.mb-5 
       table
         thead
           tr
@@ -182,7 +188,7 @@
   
             td Los datos secundarios son datos que de alguna manera otras organizaciones ya han buscado con fines distintos a la indagación existente. Es decir, ya están de forma accesible y solo necesitan ser encontrados por el o los expertos en el tema.  En el dominio de #[i marketing], estos datos no se recopilaron con fines de investigación en curso, por lo general permiten ver comportamientos y características demográficos generales en lugar de una audiencia de alguna marca específica. Sin embargo, de esta manera se pueden identificar tendencias clave del mercado que pueden verse reflejadas en la audiencia de una marca, producto o servicio..
               
-          tr
+          tr.cell--grayBlue
             td.text-center <strong>Ventajas y desventajasde los datos primarios</strong>
             td.text-center <strong>Ventajas y desventajasde los datos secundarios</strong>
           tr
@@ -212,71 +218,74 @@
             p.mb-0 Existen dos niveles de calidad de los datos es muy importante poder diferenciarlos y aplicarlos al momento de ser requeridos, estos niveles son:
 
       .row.justify-content-center.mb-5
-        .col-lg-6(data-aos="flip-left").mb-4.mb-lg-0
-          .crd.crd--grad_01.crd--rad.fullHeight.p-5
-            figure.mb-4
-              img(src="@/assets/curso/temas/tema1/t1_16.svg", alt="alt").img250
-            p.text-white.mb-4 Son datos que tienen poco valor para ser utilizados en un proceso comercial. Se caracterizan por ser poco confiables en los resultados que presentan debido a la falta de procesamiento, filtros y mejoras para su uso. Los resultados de optar por utilizar estos datos de baja calidad pueden ser fatales al momento de tomar decisiones financieras equivocadas para una empresa o fallar en un proyecto.  
-            .triangles
-              figure
-                img(src="@/assets/curso/recursos/triangles_01.svg", alt="alt").img80
+        .col-xl-6.mb-4.mb-xl-0(data-aos="flip-left")
+          .crd.crd-avatarH_Blue
+            .row.p-4
+              .col-auto
+                figure
+                  img(src="@/assets/curso/temas/tema1/t1_17.svg", alt="alt").img90
+              .col
+                h4.text-white Datos de baja calidad
+                p.text-white.mb-4 Son datos que tienen poco valor para ser utilizados en un proceso comercial. Se caracterizan por ser poco confiables en los resultados que presentan debido a la falta de procesamiento, filtros y mejoras para su uso. Los resultados de optar por utilizar estos datos de baja calidad pueden ser fatales al momento de tomar decisiones financieras equivocadas para una empresa o fallar en un proyecto. 
 
-        .col-lg-6(data-aos="flip-left")
-          .crd.crd--grad_01.crd--rad.fullHeight.p-5
-            figure.mb-4
-              img(src="@/assets/curso/temas/tema1/t1_17.svg", alt="alt").img250
-            p.text-white.mb-4 Hace referencia a los datos que están bajo las normas y estándares de calidad y pueden ser utilizados para varios aspectos organizacionales, permitiendo una toma de decisiones fiable la cual puede reducir significativamente el riesgo empresarial.   
-            .triangles
-              figure
-                img(src="@/assets/curso/recursos/triangles_01.svg", alt="alt").img80
+        .col-xl-6.mb-4.mb-xl-0(data-aos="flip-left")
+          .crd.crd-avatarH_Blue
+            .row.p-4
+              .col-auto
+                figure
+                  img(src="@/assets/curso/temas/tema1/t1_16.svg", alt="alt").img90
+              .col
+                h4.text-white Datos de alta calidad
+                p.text-white.mb-4 Hace referencia a los datos que están bajo las normas y estándares de calidad y pueden ser utilizados para varios aspectos organizacionales, permitiendo una toma de decisiones fiable la cual puede reducir significativamente el riesgo empresarial.        
+            
 
-      p.mb-5 Una buena gestión de los datos es un activo de la empresa, y se nota en las siguientes características:
+      p.mb-5 #[strong Una buena gestión de los datos es un activo de la empresa, y se nota en las siguientes características:]
 
-    .slyderB_bg_01.px-5.py-3.mb-5
+    .slyderB_bg_01.px-4.px-lg-5.py-3.mb-5
       SlyderA(tipo="b")
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
+        .row.justify-content-around.align-items-center.my-lg-4
+          .col-lg-6.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
             .number(data-number="01") 
               h4.ps-4 Mejor imagen   
               p.ps-4.mb-0 los datos de calidad se pueden utilizar para evaluar cómo los usuarios de un producto o servicio perciben una organización, con base en ello se puede utilizar esta información para mejorar esta visión. Esto se hace sin dejar la esencia de la unidad es decir colores, fuentes eslogan etc., creando nuevas previsiones con el fin de mejorar la imagen corporativa de la organización.                    
-          .col-6.col-lg-4
+          .col-lg-4.col-6
             figure
               img(src='@/assets/curso/temas/tema1/t1_18.svg')  
 
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-6.col-lg-4.order-2.order-lg-1
+        .row.justify-content-around.align-items-center.my-lg-4
+          .col-lg-4.col-6.order-2.order-lg-1
             figure
               img(src='@/assets/curso/temas/tema1/t1_19.svg')
-          .col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
+          .col-lg-6.order-1.order-lg-2.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
             .number(data-number="02") 
               h4.ps-4 Clientes fieles    
               p.ps-4.mb-0 Al momento de contar con una base de datos de clientes óptima y precisa se podrá generar una planeación estratégica por grupos de acuerdo a sus preferencias esto permite a los usuarios empatizar con el comportamiento de la organización y aumentar su porcentaje de fidelización.                
           
 
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
+        .row.justify-content-around.align-items-center.my-lg-4
+          .col-lg-6.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
             .number(data-number="03") 
               h4.ps-4 Menos costos    
               p.ps-4.mb-0 Los datos de calidad de una organización influyen en todos los aspectos y en cada área de la misma, puesto que todas las actividades y decisiones que se basan en la información que proporcionan estos datos se optimizan con el fin de mejorar todos los métodos y procesos de una organización. Debido a que los recursos se usan con un alto grado de conocimiento, requiriendo menos recursos para hacer más, lo que demuestra un ahorro significativo en los costos comerciales.                     
-          .col-6.col-lg-4
+          .col-lg-4.col-6
             figure
               img(src='@/assets/curso/temas/tema1/t1_20.svg')        
 
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-6.col-lg-4.order-2.order-lg-1
+        .row.justify-content-around.align-items-center.my-lg-4
+          .col-lg-4.col-6.order-2.order-lg-1
             figure
               img(src='@/assets/curso/temas/tema1/t1_21.svg')
-          .col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
+          .col-lg-6.order-1.order-lg-2.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
             .number(data-number="04") 
               h4.ps-4 Seguimiento estrategia   
               p.ps-4.mb-0 Al momento de controlar los datos de alta calidad de clientes presentes y futuros se logra una mejor implementación de diversas estrategias de #[i marketing]. Si los datos utilizados para generar la transacción son realmente de alta calidad los resultados esperados se mostrarán de inmediato. 
 
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
+        .row.justify-content-around.align-items-center.my-lg-4
+          .col-lg-6.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
             .number(data-number="05") 
               h4.ps-4 Mejor productividad    
               p.ps-4.mb-0 Al recopilar los datos con un enfoque en los productos y servicios que ofrece su organización orientada como negocio y analizar la reacción general de un público objetivo ante ellos, se puede identificar los puntos que deben mejorarse u optimarse para completar el servicio o producto.                   
-          .col-6.col-lg-4
+          .col-lg-4.col-6
             figure
               img(src='@/assets/curso/temas/tema1/t1_22.svg')  
 
@@ -325,7 +334,7 @@
                 figure
                   img(src="@/assets/curso/recursos/square_05.svg", alt="alt").img65
               .col-lg
-                p El análisis de datos es utilizado en el sector industrial, independiente del sector al cual este dirigido o determinado, y proporciona la base exacta para la toma de decisiones o decidir si una hipótesis es correcta. 
+                p #[strong El análisis de datos es utilizado en el sector industrial, independiente del sector al cual este dirigido o determinado, y proporciona la base exacta para la toma de decisiones o decidir si una hipótesis es correcta.] 
 
         .col-8.col-lg-4.position-relative
           figure
@@ -334,20 +343,23 @@
       .row.justify-content-center
         .col-lg-4.mb-4.mb-lg-0
           .crd.crd--grayGrad(data-aos="flip-left")
-            figure
-              img(src="@/assets/curso/temas/tema1/t1_25.svg", alt="alt").img135.m-auto
+            .bottomCircle.mb-5
+              figure
+                img(src="@/assets/curso/temas/tema1/t1_25.png", alt="alt").img90.m-auto
             h4.text-center <i>Marketing</i>
             p.text-center.mb-0 El análisis de datos se utiliza principalmente para pronosticar las conductas de los consumidores, las cuales podrán ser calificadas y de este resultado crear una estrategia de #[i marketing] de una organización conociendo los beneficios y posibles dificultades.
         .col-lg-4.mb-4.mb-lg-0
           .crd.crd--grayGrad(data-aos="flip-left")
-            figure
-              img(src="@/assets/curso/temas/tema1/t1_26.svg", alt="alt").img135.m-auto
+            .bottomCircle.mb-5
+              figure
+                img(src="@/assets/curso/temas/tema1/t1_26.png", alt="alt").img90.m-auto
             h4.text-center Recursos humanos
             p.text-center.mb-0 El análisis de datos resulta demasiado útil para conservar un buen ambiente de trabajo dentro de la empresa y también para identificar empleados potenciales externamente.
         .col-lg-4.mb-4.mb-lg-0
           .crd.crd--grayGrad(data-aos="flip-left")
-            figure
-              img(src="@/assets/curso/temas/tema1/t1_27.svg", alt="alt").img135.m-auto
+            .bottomCircle.mb-5
+              figure
+                img(src="@/assets/curso/temas/tema1/t1_27.png", alt="alt").img90.m-auto
             h4.text-center Académicos 
             p.text-center.mb-0 Al igual que en las organizaciones el análisis de datos está presente en el sector de la educación, puesto que sirve al momento de seleccionar alumnos que deseen ingresar a una institución y de igual forma puede medir el rendimiento académico e individual de los estudiantes.
 
@@ -374,7 +386,7 @@
 
     p.mb-5 #[strong La razón de realizar la recolección de datos con técnicas se basa en unos beneficios sustanciales que son los siguientes:]
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5
       .col-8.col-lg-6
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema1/t1_28.png", alt="alt")

@@ -20,7 +20,7 @@
             .col-lg
               p.mb-0 Se puede decir que el tratamiento de datos se enfoca en la forma de manipular cualquier procedimiento técnico, automatizado o no, esto le permite recopilar, registrar, guardar, procesar, modificar, consultar, usar, eliminar, bloquear o borrar cualquier tipo de información.
 
-          p.mb-0 Sin seguridad no hay debido Tratamiento de Datos Personales. Por eso, la Ley 1581 de 2012 establece lo siguiente: #[span.hg--purple “La información sujeta a tratamiento por el responsable del Tratamiento o Encargado del Tratamiento a que se refiere la presente ley, se deberá manejar con las medidas técnicas, humanas y administrativas que sean necesarias para otorgar seguridad a los registros evitando su adulteración, pérdida, consulta, uso o acceso no autorizado o fraudulento. En desarrollo de lo anterior, la Ley impone a los responsables y encargados del tratamiento los siguientes deberes: Conservar la información bajo las condiciones de seguridad necesarias para impedir su adulteración, pérdida, consulta, uso o acceso no autorizado o fraudulento, Informar a la autoridad de protección de datos cuando se presenten violaciones a los códigos de seguridad y existan riesgos en la administración de la información de los Titulares”] #[span.txt--purple (SIC, 2020).]
+          p.mb-0 Sin seguridad no hay debido Tratamiento de Datos Personales. Por eso, la Ley 1581 de 2012 establece lo siguiente: #[span.hg--purple02 “La información sujeta a tratamiento por el responsable del Tratamiento o Encargado del Tratamiento a que se refiere la presente ley, se deberá manejar con las medidas técnicas, humanas y administrativas que sean necesarias para otorgar seguridad a los registros evitando su adulteración, pérdida, consulta, uso o acceso no autorizado o fraudulento. En desarrollo de lo anterior, la Ley impone a los responsables y encargados del tratamiento los siguientes deberes: Conservar la información bajo las condiciones de seguridad necesarias para impedir su adulteración, pérdida, consulta, uso o acceso no autorizado o fraudulento, Informar a la autoridad de protección de datos cuando se presenten violaciones a los códigos de seguridad y existan riesgos en la administración de la información de los Titulares”] #[span.txt--purple (SIC, 2020).]
 
      
     .bg_img_02 
@@ -55,50 +55,50 @@
         .slyderB_bg.p-4
           SlyderA(tipo="b")
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-10.pt-5.pt-0.position-relative 
-                .number(data-number="01")   
+              .col-lg-10.pt-5.position-relative 
+                .number.num--left(data-number="01")   
                   h4.ps-4 Principio de legalidad en materia de tratamiento de datos               
                   p.ps-4.mb-0 El tratamiento de datos personales es una actividad reglada que debe sujetarse a lo establecido en la ley y en las demás disposiciones que la desarrollen. 
 
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-10.pt-5.pt-0.position-relative 
-                .number(data-number="02")   
+              .col-lg-10.position-relative 
+                .number.num--left(data-number="02")   
                   h4.ps-4 Principio de finalidad               
                   p.ps-4.mb-0 El tratamiento de datos personales debe obedecer a una finalidad legítima de acuerdo con la constitución y la ley, la cual debe ser informada al titular.     
 
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-10.pt-5.pt-0.position-relative 
-                .number(data-number="03")   
+              .col-lg-10.pt-0.position-relative 
+                .number.num--left(data-number="03")   
                   h4.ps-4 Principio de libertad               
                   p.ps-4.mb-0 El tratamiento de datos personales solo puede ejercerse con el consentimiento previo, expreso e informado del titular. Los datos personales no podrán ser obtenidos o divulgados sin previa autorización, o en ausencia de mandato legal o judicial que releve el consentimiento.   
 
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-10.pt-5.pt-0.position-relative 
-                .number(data-number="04")   
+              .col-lg-10.position-relative 
+                .number.num--left(data-number="04")   
                   h4.ps-4 Principio de veracidad o calidad               
                   p.ps-4.mb-0 La información personal sujeta a tratamiento debe ser veraz, completa, exacta, actualizada, comprobable y comprensible, en este sentido, se prohíbe el tratamiento de datos parciales, incompletos, fraccionados o que induzcan a error.   
 
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-10.pt-5.pt-0.position-relative 
-                .number(data-number="05")   
+              .col-lg-10.position-relative 
+                .number.num--left(data-number="05")   
                   h4.ps-4 Principio de transparencia               
                   p.ps-4.mb-0 En el tratamiento de datos personales debe garantizarse el derecho del titular a obtener del responsable del tratamiento o del encargado del tratamiento, en cualquier momento y sin restricciones, información acerca de la existencia de datos que le conciernan.   
 
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-10.pt-5.pt-0.position-relative 
-                .number(data-number="06")   
+              .col-lg-10.pt-5.position-relative 
+                .number.num--left(data-number="06")   
                   h4.ps-4 Principio de acceso y circulación restringida              
                   p.ps-4.mb-0 El tratamiento de datos personales está sujeto a los límites que se derivan de la naturaleza de los mismos, de las disposiciones de ley y la constitución. En este sentido, su tratamiento solo podrá hacerse por personas autorizadas por el titular y/o por las personas previstas en ley. En este sentido, los datos personales, salvo la información pública, no podrán estar disponibles en Internet u otros medios de divulgación o comunicación masiva, salvo que el acceso sea técnicamente controlable para brindar un conocimiento restringido solo a los titulares o terceros autorizados conforme a la ley.   
 
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-10.pt-5.pt-0.position-relative 
-                .number(data-number="07")   
+              .col-lg-10.pt-0.position-relative 
+                .number.num--left(data-number="07")   
                   h4.ps-4 Principio de seguridad             
                   p.ps-4.mb-0 La información personal sujeta a tratamiento por el responsable del Tratamiento o Encargado del Tratamiento a que se refiere la ley, se deberá manejar con las medidas técnicas, humanas y administrativas que sean necesarias para otorgar seguridad a los registros evitando su adulteración, pérdida, consulta, uso o acceso no autorizado o fraudulento. 
 
             .row.justify-content-center.align-items-center.my-lg-4
-              .col-10.pt-5.pt-0.position-relative 
-                .number(data-number="08")   
+              .col-lg-10.pt-0.position-relative 
+                .number.num--left(data-number="08")   
                   h4.ps-4 Principio de seguridad             
                   p.ps-4.mb-0 Todas las personas que intervengan en el tratamiento de datos personales que no tengan la naturaleza de públicos están obligadas a garantizar la reserva de la información, inclusive después de finalizada su relación con alguna de las labores que comprende el tratamiento, pudiendo solo realizar suministro o comunicación de datos personales cuando ello corresponda al desarrollo de las actividades autorizadas en la ley y en los términos de la misma.             
 
@@ -140,7 +140,7 @@
 
     .bg_img_01
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-7
+        .col-lg-7.mb-4.mb-lg-0
           .cajon.cjn--azul.p-4
             p.mb-0 #[strong Cuando se trata de una investigación cuantitativa lo primero que se debe realizar es un diseño de recolección de datos para generar un muestreo aquí se podrá tomar como referencia los formatos de encuestas], y sus metodologías las cuales pueden ser en persona, via telefónica o en línea, se debe tener en cuenta que las preguntas deben estar bien definidas para analizarlas posteriormente, de igual forma si cuenta con una dato secundario no se  debe olvidar de dónde proviene la información ya por lo general son fuentes secundarias.
         .col-8.col-lg-5 
@@ -150,29 +150,34 @@
       p.mb-5 #[strong Al momento de hablar de una investigación cualitativa se hace referencia a un tema netamente exploratorio el cual es utilizado para comprender razones y motivos sobre temas específicos y ayudan a formular hipótesis para posibles indagaciones cuantitativas.] Se debe tener en cuenta que los métodos de recopilación de datos cualitativos analizan los motivos de la decisión y los siguientes son los tipos frecuentes de hacerlo:
 
       .row.justify-content-center.mb-5
-        .col-lg-6(data-aos="flip-left").mb-4.mb-lg-0
-          .crd.crd--grad_01.crd--rad.fullHeight.p-5
-            figure.mb-4
-              img(src="@/assets/curso/temas/tema3/t3_09.svg", alt="alt").img385
-            p.text-white.mb-4 Un formato es “la estructura interna y la codificación de un objeto digital que le permite manipularlo y hacerlo accesible”. Por ejemplo, hay formatos comunes como texto, imágenes y audio, que a menudo se usan solo dentro de una disciplina o comunidad de investigación en particular. 
-            .triangles
-              figure
-                img(src="@/assets/curso/recursos/triangles_01.svg", alt="alt").img80
 
-        .col-lg-6(data-aos="flip-left").mb-4.mb-lg-0
-          .crd.crd--grad_01.crd--rad.fullHeight.p-5
-            figure.mb-4
-              img(src="@/assets/curso/temas/tema3/t3_08.svg", alt="alt").img385
-            p.text-white.mb-4 Un formato abierto es aquel donde las especificaciones del software están disponibles para cualquier persona, de forma gratuita, así cualquiera puede usar dichas especificaciones en su propio software sin ninguna limitación en su reutilización que fuere impuesta por derechos de propiedad intelectual. Si el formato de archivo es cerrado podría utilizarse, independientemente que este formato cuente con un propietario el cual puede restringir su uso y no permite ser manipulado.  
-            .triangles
-              figure
-                img(src="@/assets/curso/recursos/triangles_01.svg", alt="alt").img80
+        .col-xl-6.mb-4.mb-xl-0(data-aos="flip-left")
+          .crd.crd-avatarH_Blue
+            .row.p-4
+              .col-auto
+                figure
+                  img(src="@/assets/curso/temas/tema3/t3_08.svg", alt="alt").img90
+              .col
+                h4.text-white Formatos abiertos y cerrdos
+                p.text-white.mb-5 Un formato es “la estructura interna y la codificación de un objeto digital que le permite manipularlo y hacerlo accesible”. Por ejemplo, hay formatos comunes como texto, imágenes y audio, que a menudo se usan solo dentro de una disciplina o comunidad de investigación en particular.
+
+        .col-xl-6.mb-4.mb-xl-0(data-aos="flip-left")
+          .crd.crd-avatarH_Blue
+            .row.p-4
+              .col-auto
+                figure
+                  img(src="@/assets/curso/temas/tema3/t3_09.svg", alt="alt").img90
+              .col
+                h4.text-white Tipos de formatos abiertos y cerrados
+                p.text-white.mb-5 Un formato abierto es aquel donde las especificaciones del software están disponibles para cualquier persona, de forma gratuita, así cualquiera puede usar dichas especificaciones en su propio software sin ninguna limitación en su reutilización que fuere impuesta por derechos de propiedad intelectual. Si el formato de archivo es cerrado podría utilizarse, independientemente que este formato cuente con un propietario el cual puede restringir su uso y no permite ser manipulado.      
+            
+            
 
     .bloque-texto-a.clr--02.p-4.p-md-5.mb-5(data-aos="fade-in").mb-5
       .row.m-0.align-items-center.justify-content-between        
         .col-12
           .bloque-texto-a__texto.p-4
-            p.mb-0 Al crear, procesar y administrar datos investigativos, se debe comprender con qué formato está trabajando. Los formatos por lo general están vinculados a software y hardware específicos, por lo que la reutilización futura depende de la disponibilidad a mediano y largo plazo. Por lo tanto, al usar un formato cerrado, se debe recordar el obtener el software apropiado que se necesita para poder actualizarlo y acceder a este en el momento que se requiera sin que tenga algún limitante.
+            p.mb-0 #[strong Al crear, procesar y administrar datos investigativos, se debe comprender con qué formato está trabajando. Los formatos por lo general están vinculados a software y hardware específicos, por lo que la reutilización futura depende de la disponibilidad a mediano y largo plazo. Por lo tanto, al usar un formato cerrado, se debe recordar el obtener el software apropiado que se necesita para poder actualizarlo y acceder a este en el momento que se requiera sin que tenga algún limitante.]
 
     separador
 
@@ -180,7 +185,7 @@
       h2 3.3 Normatividad 
 
     .row.justify-content-center
-      .col-8.col-lg-4.z_top
+      .col-8.col-lg-4.z_top.mb-4.mb-lg-0
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema3/t3_10.png", alt="alt")
       .col-lg-8(data-aos="fade-in")

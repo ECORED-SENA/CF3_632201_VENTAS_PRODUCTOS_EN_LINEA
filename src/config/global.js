@@ -1,9 +1,8 @@
 export default {
   global: {
-    componenteFormativo:
-      'Oferta ambiental de materiales no maderables del bosque',
+    componenteFormativo: 'Métricas y reportes para ventas en línea',
     descripcionCurso:
-      'El aprovechamiento de los bosques, en lo referente al ítem forestal y recursos naturales forestales no maderables, se analiza a partir de la recolección de los subproductos del bosque, tales como: raíces, tallos, hojas, flores, frutos, semillas y resinas, además, los hongos comestibles. Además, toma importancia el reconocimiento de las zonas forestales mediante la cartografía y la georreferenciación.',
+      'Las ventas en línea permiten generar grandes oportunidades de negocios tanto para el empresario y para el emprendedor puesto que cuenta con la posibilidad de hacer que un producto o servicio se comercialice de forma rápida y precisa, haciendo de esta actividad un escenario productivo y rentable durante los siete días de la semana y las 24 horas del día.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
   },
@@ -368,26 +367,24 @@ export default {
   ],
   complementario: [
     {
-      texto: 'ED, team. (2020). ¿Qué son las bases de datos y cómo funcionan?',
+      tema: 'Concepto de datos e información',
+      referencia:
+        'ED, team. (2020). <i>¿Qué son las bases de datos y cómo funcionan?</i>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=knVwokXITGI',
     },
     {
-      texto: 'Soto, A. (2021). Analítica de Datos aplicada al negocio.',
+      tema: 'Analítica de datos',
+      referencia: 'Soto, A. (2021). Analítica de Datos aplicada al negocio.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=ANuxVoKu8Xg',
     },
     {
-      texto:
-        'GT, Ben. (2020). Cómo conseguir tráfico en mi tienda online – ecommerce.',
+      tema: 'Tráfico ',
+      referencia:
+        'GT, Ben. (2020). <i>Cómo conseguir tráfico en mi tienda online – ecommerce.</i>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=WCeQ1g_F0Ak',
-    },
-    {
-      texto:
-        'Potosí-Gutiérrez, A, Villalba-Malaver, J. C., y Arboleda-Íno, L. Y. (2017.) <i>Productos forestales no maderables asociados a bosques de roble</i>',
-      tipo: 'PDF',
-      descarga: '/downloads/v15n2a03.pdf',
     },
   ],
   creditos: {
