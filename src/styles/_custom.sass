@@ -380,10 +380,17 @@
 
 ///// Linea tiempo D
 
+.linea-tiempo-d__item__content.tarjeta.tarjeta--gris, .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+  background-color: #E6E6E6
+
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #F6F6F6
+
 .linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
   background-color: #D2C1EB
   color: black
- 
+
 
 ///// Tabla Custom
 
@@ -402,7 +409,7 @@
   border-top: 5px solid #EEAC3A
   background-color: #D2E1F1
   th
-    font-size: 1em !important
+    font-size: 1.125em !important
 
 .cell--grayBlue
   background-color: #D2E1F1
@@ -414,8 +421,9 @@
 
 @media (max-width: 600px)
   .slyder-a__bullets__item
-    width: 10px
-    height: 10px
+    width: 13px
+    height: 13px
+    margin: 0px 6px
 
 
 ///// Acordion
@@ -447,5 +455,7 @@
 .linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
   background-color: #D2C1EB !important
   color: $color-sistema-a
+
+
 
   

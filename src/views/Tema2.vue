@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/t2_01.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 #[span.txt--purple Según Ambit (2020)], #[span.hg--purple “las métricas de negocio son aquellos valores expresados numéricamente que sirven para analizar el rendimiento de una determinada acción o proceso dentro de una empresa. Cualquier cosa que se realice dentro del ámbito empresarial y sea medible, es una métrica”.] Dichas métricas se suelen expresar utilizando unidades o porcentajes y se obtienen a partir de una herramienta de medición ya establecida que muestra un valor que puede considerarse como global. Su interpretación requiere conocer el proceso o el uso de la herramienta de medición. Una métrica muestra un valor sencillo que mide una actividad o proceso, pero no permite evaluar las acciones de la empresa sobre ella.
+        p.mb-0 #[span.txt--purple Según Ambit (2020)], #[span.hg--purple02 “las métricas de negocio son aquellos valores expresados numéricamente que sirven para analizar el rendimiento de una determinada acción o proceso dentro de una empresa. Cualquier cosa que se realice dentro del ámbito empresarial y sea medible, es una métrica”.] Dichas métricas se suelen expresar utilizando unidades o porcentajes y se obtienen a partir de una herramienta de medición ya establecida que muestra un valor que puede considerarse como global. Su interpretación requiere conocer el proceso o el uso de la herramienta de medición. Una métrica muestra un valor sencillo que mide una actividad o proceso, pero no permite evaluar las acciones de la empresa sobre ella.
 
     figure
       .video
@@ -194,7 +194,7 @@
     #t_2_4.titulo-segundo.color-acento-contenido
       h2 2.4 tráfico
 
-    p Para el comercio electrónico, es importante comprender el tráfico, es decir, monitorear la cantidad de visitantes a una tienda en línea y saber de dónde provienen o cuántos visitantes son; elementos como el anterior son muy importantes porque brindan información sobre dónde navegan los usuarios y cómo encontraron el sitio. Este tipo de información es muy útil en la planificación y desarrollo de las campañas de #[i marketing] y publicidad.
+    p #[strong Para el comercio electrónico, es importante comprender el tráfico, es decir, monitorear la cantidad de visitantes a una tienda en línea y saber de dónde provienen o cuántos visitantes] son; elementos como el anterior son muy importantes porque brindan información sobre dónde navegan los usuarios y cómo encontraron el sitio. Este tipo de información es muy útil en la planificación y desarrollo de las campañas de #[i marketing] y publicidad.
 
     .bg_img_01 
       .row.justify-content-center.mb-5
@@ -290,12 +290,13 @@
     #t_2_6.titulo-segundo.color-acento-contenido
       h2 2.6 Medición de ventas 
 
-    .row.justify-content-center.mb-5
-      .col-7.col-lg-4.mb-4.mb-lg-0
+    .row.justify-content-center.align-items-center.mb-5
+      .col-7.col-lg-4.mb-4.mb-lg-0.z_top
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema2/t2_24.svg", alt="alt")
       .col-lg-8
-        p.mb-0 Teniendo una base sólida de medición de ventas, fácilmente se conducirá a orientar mejores resultados de negocios y por supuesto de ingresos, rentabilidad día a día y una mejor rotación de clientes con mejores resultados de estrategias de intervención y para esto se debe medir como lo dice #[span.txt--purple Bello (2021)], #[span.hg--purple02 “la gran mayoría de las organizaciones calculan las actividades de las estrategias de #[i marketing], por supuestos, y no por datos de medición de ventas reales, con demasiada periodicidad, y no aprovechan al máximo todos los escenarios que les permitan realizar mejores mediciones de acuerdo a las ventas”,] por ejemplo, estas mediciones no conducen a operaciones útiles, no se comparten entre equipos y no permiten indicar disposiciones estratégicas importantes, es decir si los equipos de trabajo se dividen, unos optimizando el tráfico del portal web y otro equipo el tráfico peatonal de una tienda en línea pero no tienen comunicación alguna, aquí la organización no cuenta con una estrategia clara y aplicará todas las métricas de forma inadecuada. En cambio, #[strong los líderes de #[i marketing] movilizan a los equipos para que trabajen de manera más colaborativa entre canales y departamentos, brindando la experiencia adecuada a los clientes correctos en el momento correcto.]
+        .gray--right
+          p.mb-0 Teniendo una base sólida de medición de ventas, fácilmente se conducirá a orientar mejores resultados de negocios y por supuesto de ingresos, rentabilidad día a día y una mejor rotación de clientes con mejores resultados de estrategias de intervención y para esto se debe medir como lo dice #[span.txt--purple Bello (2021)], #[span.hg--purple02 “la gran mayoría de las organizaciones calculan las actividades de las estrategias de #[i marketing], por supuestos, y no por datos de medición de ventas reales, con demasiada periodicidad, y no aprovechan al máximo todos los escenarios que les permitan realizar mejores mediciones de acuerdo a las ventas”,] por ejemplo, estas mediciones no conducen a operaciones útiles, no se comparten entre equipos y no permiten indicar disposiciones estratégicas importantes, es decir si los equipos de trabajo se dividen, unos optimizando el tráfico del portal web y otro equipo el tráfico peatonal de una tienda en línea pero no tienen comunicación alguna, aquí la organización no cuenta con una estrategia clara y aplicará todas las métricas de forma inadecuada. En cambio, #[strong los líderes de #[i marketing] movilizan a los equipos para que trabajen de manera más colaborativa entre canales y departamentos, brindando la experiencia adecuada a los clientes correctos en el momento correcto.]
 
     .cajon.cjn--yellow.p-4.mb-5
       p.mb-0 En #[i marketing], los lideres empresariales comprenden que los clientes son el mayor valor de por vida para un negocio, por ello crean todo el contenido apropiado para el desarrollo de las campañas encaminadas a esos clientes. #[strong Las acciones de #[i marketing] que se generan están vinculadas a los objetivos comerciales y conducen a mejores resultados para la organización.] Por esto, la medición juega un papel importante en la construcción de una ciencia orientada para el cliente que adopta un enfoque de aprendizajes constantes y pruebas. 

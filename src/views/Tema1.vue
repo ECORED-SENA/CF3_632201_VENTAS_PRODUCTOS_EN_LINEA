@@ -189,8 +189,8 @@
             td Los datos secundarios son datos que de alguna manera otras organizaciones ya han buscado con fines distintos a la indagación existente. Es decir, ya están de forma accesible y solo necesitan ser encontrados por el o los expertos en el tema.  En el dominio de #[i marketing], estos datos no se recopilaron con fines de investigación en curso, por lo general permiten ver comportamientos y características demográficos generales en lugar de una audiencia de alguna marca específica. Sin embargo, de esta manera se pueden identificar tendencias clave del mercado que pueden verse reflejadas en la audiencia de una marca, producto o servicio..
               
           tr.cell--grayBlue
-            td.text-center <strong>Ventajas y desventajasde los datos primarios</strong>
-            td.text-center <strong>Ventajas y desventajasde los datos secundarios</strong>
+            td(style="font-size:1.125em;").text-center <strong>Ventajas y desventajasde los datos primarios</strong>
+            td(style="font-size:1.125em;").text-center <strong>Ventajas y desventajasde los datos secundarios</strong>
           tr
             td Como ventaja principal de los datos sin procesar (primarios) es la inspección al momento de compilar la información hasta el momento de usarla, una organización define la propia estrategia de investigación para alcanzar los objetivos de #[i marketing] de forma específica.<br><br>Los métodos, instrumentos, definiciones de muestra y otros elementos están destinados a proporcionar respuestas concretas a preguntas de un tema en específico para fines de investigación, los datos primarios por lo general son más exactos que los datos secundarios. Tienden a ser más confiables porque están organizados por la organización.<br><br>La búsqueda con datos primarios puede ser tediosa, lenta y costosa. Requieren más tiempo para planificar, recopilar y procesar datos, invertir en herramientas y equipos de investigación, contratar investigadores, preparar informes y otras tareas. Por lo tanto, los estudios que utilizan datos primarios tienden a ser más limitados. Cubrir todo el mercado es muy difícil y costoso, por lo que las empresas solo acceden a su audiencia o parte de ella. Hay datos secundarios para esto. Esto se explica en detalle a continuación.
             td Las principales ventajas de los datos secundarios se enfocan en la agilidad y el alcance de la investigación. Los datos ya han sido recopilados y procesados, ahora, le corresponde al investigador analizarlos de acuerdo con su problema de investigación. Este proceso suele ser más ágil, además de generar menos costos para #[i marketing] que la investigación con datos primarios. Por ejemplo, si está buscando artículos de periódicos, documentos académicos, encuestas investigación, está buscando datos secundarios.<br><br> Dichos datos ya han sido recopilados y procesados. En este punto, los expertos necesitan evaluar los datos de acuerdo con las preguntas de indagación. Este ejercicio puede ser más ágil que el primer escenario de recopilación de datos primarios y su comercialización es menos costosa. Sin embargo, es importante conocer que en el mercado se encuentran informes de investigación los cuales están a la venta y estos pueden tener un costo elevado lo que limita que se puedan obtener.<br><br>La mayor desventaja es que pueden ser datos falsos porque no fue el investigador quien los tomó directamente, es decir que toda la información de los datos secundarios se debe tomar de fuentes confiables y hacer su cotejo para establecer su certeza. 
@@ -374,11 +374,11 @@
       table
         thead
           tr
-            th(colspan='2') Técnicas de recolección de datos
+            th(colspan='2' style="font-size:1.125em;") Técnicas de recolección de datos
         tbody
           tr.text-center
-            td.cell--grayBlue Análisis de datos cualitativos
-            td.cell--grayBlue Análisis de datos cuantitativos
+            td(style="font-size:1.125em;").cell--grayBlue Análisis de datos cualitativos
+            td(style="font-size:1.125em;").cell--grayBlue Análisis de datos cuantitativos
           tr
             td Este tipo de datos se presentan verbalmente (a veces se muestran gráficamente). Basados en la interpretación, la manera más apropiada de alcanzar esta información es a través de entrevistas públicas, los grupos focales y los grupos de observación. Con estos métodos, los expertos en datos suelen analizar modelos de observación a lo largo de la fase de adquisición de datos.
 
