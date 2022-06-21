@@ -105,7 +105,7 @@
       .col-lg-8(data-aos="fade-in")
         .gray--right
           h3.cstm_H3_01 ¿Qué es un KPI?
-          p Los indicadores clave de desempeño o #[span.txt--purple KPI (key performance indicator)] son valores medibles que representan la efectividad de los procesos o acciones de una empresa para lograr un objetivo, en particular tal como lo comparte #[span.txt--purple Coutinho (2015):] #[span.hg--purple02 “KPI viene de la sigla en inglés para Key Performance Indicator, o sea, Indicador Clave de Actuación. Son aquellas métricas más relevantes para tu estrategia, que determinan tu éxito o no”.] Los KPI son utilizados para monitorear y confirmar que se ha logrado un objetivo establecido permitiendo tomar de forma adecuada y rápida una decisión de corrección si se desvía del objetivo establecido. Los indicadores clave de desempeño no solo hacen referencia a los valores financieros, sino que se aplican a todas las áreas de la empresa. #[strong Por ejemplo, un cuadro de mando empresarial necesita recopilar KPI de diferentes áreas de la empresa que muestren valores que midan la efectividad de las estrategias implementadas.] Usando esta información en tiempo real proporcionada por los KPI, un gerente de la empresa puede redirigir las desviaciones de objetivos y tomar decisiones de corrección para planificar nuevas estrategias competitivas.
+          p Los indicadores clave de desempeño o #[span.txt--purple KPI (#[i key performance indicator])] son valores medibles que representan la efectividad de los procesos o acciones de una empresa para lograr un objetivo, en particular tal como lo comparte #[span.txt--purple Coutinho (2015):] #[span.hg--purple02 “KPI viene de la sigla en inglés para #[i Key Performance Indicator], o sea, Indicador Clave de Actuación. Son aquellas métricas más relevantes para tu estrategia, que determinan tu éxito o no”.] Los KPI son utilizados para monitorear y confirmar que se ha logrado un objetivo establecido permitiendo tomar de forma adecuada y rápida una decisión de corrección si se desvía del objetivo establecido. Los indicadores clave de desempeño no solo hacen referencia a los valores financieros, sino que se aplican a todas las áreas de la empresa. #[strong Por ejemplo, un cuadro de mando empresarial necesita recopilar KPI de diferentes áreas de la empresa que muestren valores que midan la efectividad de las estrategias implementadas.] Usando esta información en tiempo real proporcionada por los KPI, un gerente de la empresa puede redirigir las desviaciones de objetivos y tomar decisiones de corrección para planificar nuevas estrategias competitivas.
 
     .cajon.cjn--yellow.p-4.mb-5(data-aos="fade-in")
       p.mb-0 De igual forma es importante saber elegir los KPI apropiados para monitorear la estrategia de #[i marketing] digital, como primera medida a considerar a la hora del establecimiento de los indicadores se debe tener en cuenta los objetivos principales de la empresa. Las métricas que se elijan deben proporcionar la información necesaria para estar al tanto si está en camino de alcanzar esos objetivos, también se deben considerar las estrategias adecuadas para incorporar en campañas de publicidad digital.
@@ -285,6 +285,8 @@
               .col.py-3.pe-4               
                 p.mb-0 Optimizar de los resultados y análisis obtenidos optimizarán futuras campañas, mejorarán y minimizarán errores, y aumentarán futuras tasas de conversión.
 
+      p Se debe recordar que en un entorno digital, siempre se debe buscar el entorno de mejora continua, en este caso optimizar acciones claras y puntuales, sitios <i>web</i>, redes sociales. Si se desea transformar la estrategia de <i>marketing</i> se debe tener en cuenta las cuatro alternativas anteriormente mencionadas.
+
       separador
 
     #t_2_6.titulo-segundo.color-acento-contenido
@@ -324,7 +326,7 @@
             .bottomCircle.mb-5
               figure
                 img(src="@/assets/curso/temas/tema2/t2_26.png", alt="alt").img90.m-auto
-            h4.text-center Activasión
+            h4.text-center Activación
             p.text-center.mb-0 Se enfoca en la toma asertiva de decisiones por intermedio de instrumentos de automatización con el fin de poder conectarse con los posibles clientes a gran escala, teniendo en cuenta que la estrategia será personalizada, dando respuesta a lo requerido por el cliente.
         .col-lg-4.mb-4.mb-lg-0
           .crd.crd--grayGrad(data-aos="flip-left")
@@ -378,12 +380,12 @@
             .col-lg
               p.mb-0 Podría decirse que es principal canal de comunicación y de relaciones con el cliente, porque después del primer contacto tiene con la organización, este se convierte en lead. 
 
-          .row.justify-content-center(numero="3" titulo="Herramienta para creación de landing pages")
+          .row.justify-content-center(numero="3" titulo="Herramienta para creación de <i>landing pages</i>")
             .col-auto.pt-2.mb-3
               figure
                 img(src="@/assets/curso/temas/tema2/t2_32.svg", alt="alt").img90
             .col-lg
-              p.mb-0 Las páginas de destino son páginas diseñadas para aceptar visitantes y volverlos clientes potenciales, posterior a esto, el visitante será un contacto u oportunidad de negocio, de igual forma a través de las landing se podrán ofertar contenidos importantes con el fin de poder enrolar al visitante a que permita obtener sus datos personales, y crear una relación con el cliente y de esta forma poder enviarle los contenidos adecuados de acuerdo su perfil y preferencias.
+              p.mb-0 Las páginas de destino son páginas diseñadas para aceptar visitantes y volverlos clientes potenciales, posterior a esto, el visitante será un contacto u oportunidad de negocio, de igual forma a través de las <i>landing</i> se podrán ofertar contenidos importantes con el fin de poder enrolar al visitante a que permita obtener sus datos personales, y crear una relación con el cliente y de esta forma poder enviarle los contenidos adecuados de acuerdo su perfil y preferencias.
 
           .row.justify-content-center(numero="4" titulo="Plataforma de <i>marketing</i> de contenidos")
             .col-auto.pt-2.mb-3
@@ -418,7 +420,7 @@
               figure
                 img(src="@/assets/curso/temas/tema2/t2_36.svg", alt="alt").img90
             .col-lg
-              p.mb-0 El software de monitoreo de redes sociales ayuda a optimizar las acciones de construcción de comunidades. Estas herramientas ayudarán a logar mayor productividad al momento de programar lanzamientos de contenido, permitiendo realizar un seguimiento adecuado de las menciones de una marca, producto o servicio de una organización, de igual forma se podrá valorar los intereses de una audiencia y la capacidad de respuesta a las publicaciones.
+              p.mb-0 El <i>software</i> de monitoreo de redes sociales ayuda a optimizar las acciones de construcción de comunidades. Estas herramientas ayudarán a logar mayor productividad al momento de programar lanzamientos de contenido, permitiendo realizar un seguimiento adecuado de las menciones de una marca, producto o servicio de una organización, de igual forma se podrá valorar los intereses de una audiencia y la capacidad de respuesta a las publicaciones.
 
     separador
 
@@ -448,8 +450,8 @@
             .col-lg
               p El agente comercial se transforma en el asesor del cliente, puesto que su estrategia le permite estar en el lugar adecuado, allí por lo general escucha a los clientes durante un largo período de tiempo. Por intermedio de esta habilidad, los vendedores conocen a los clientes, les brindan lo que necesitan y ganan autoridad como asesores.
 
-        .crd.crd--tabs.p-4(titulo="Ventas Inbound")
-          h4 Ventas Inbound
+        .crd.crd--tabs.p-4(titulo="Ventas <i>Inbound</i>")
+          h4 Ventas <i>Inbound</i>
           .row.justify-content-center
             .col-auto.mb-4.mb-lg-0
               figure(data-aos="zoom-in")
@@ -474,7 +476,7 @@
     separador
 
     #t_2_9.titulo-segundo.color-acento-contenido
-      h2 2.9 Impactoo y resultados
+      h2 2.9 Impacto y resultados
 
     .bloque-texto-a.clr--01(data-aos="fade-in").p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
@@ -506,7 +508,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/t2_44.svg', alt='')
 
-      .py-4.py-md-5(titulo="Mejores resultados con menos inversión" :icono="require('@/assets/curso/temas/tema2/icon_03.svg')")
+      .py-4.py-md-5(titulo="Consolidación de marca" :icono="require('@/assets/curso/temas/tema2/icon_03.svg')")
         .row.justify-content-center.align-items-center
           .col-md-7.mb-4.mb-md-0
             h4 Consolidación de marca
@@ -519,7 +521,7 @@
         .row.justify-content-center.align-items-center
           .col-md-7.mb-4.mb-md-0
             h4 Seguimiento y medición de resultados
-            p El #[i marketing] digital tiene diversas herramientas que le permiten ver un resultado en tiempo real, lo cual es una muy buena ventaja para cualquier organización. Cada labor realizada se puede analizar de forma rápida con el fin de establecer su eficacia.  El sistema CRM (Customer Relationship Management) facilita mucho este tipo de tareas, ya que está en capacidad de realizar un rastreo de varios indicadores, los cuales dependen de los objetivos que se persigan en el desarrollo de cada campaña.        
+            p El #[i marketing] digital tiene diversas herramientas que le permiten ver un resultado en tiempo real, lo cual es una muy buena ventaja para cualquier organización. Cada labor realizada se puede analizar de forma rápida con el fin de establecer su eficacia.  El sistema CRM (<i>Customer Relationship Management</i>) facilita mucho este tipo de tareas, ya que está en capacidad de realizar un rastreo de varios indicadores, los cuales dependen de los objetivos que se persigan en el desarrollo de cada campaña.        
           .col-8.col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/t2_46.svg', alt='')

@@ -332,7 +332,7 @@ export default {
     {
       termino: '<em>Landing Pages</em>',
       significado:
-        'Una <em>landing page</em> o página de destino es una página web diseñada para lograr un solo objetivo: convertir visitantes en clientes o leads.',
+        'Una <em>landing page</em> o página de destino es una página web diseñada para lograr un solo objetivo: convertir visitantes en clientes o <em>leads</em>.',
     },
     {
       termino: '<em>Lead</em>',

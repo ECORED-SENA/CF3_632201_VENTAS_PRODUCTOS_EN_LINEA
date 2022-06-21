@@ -118,7 +118,7 @@
       .row.m-0.align-items-center.justify-content-between        
         .col-12
           .bloque-texto-a__texto.p-4
-            p El uso de esa información se conoce como <strong> procesamiento de datos</strong>, que a su vez hace referencia a la reorganización o reestructuración de los datos, este procesamiento debe ser realizado por personas o software especializados con un objetivo particular. <strong>Dicho procesamiento de datos está conformado por tres pasos básicos conocidos como entrada, procesamiento y salida, logrando hacer un ciclo como se puede ver a continuación:</strong>
+            p El uso de esa información se conoce como <strong> procesamiento de datos</strong>, que a su vez hace referencia a la reorganización o reestructuración de los datos, este procesamiento debe ser realizado por personas o <i>software</i> especializados con un objetivo particular. <strong>Dicho procesamiento de datos está conformado por tres pasos básicos conocidos como entrada, procesamiento y salida, logrando hacer un ciclo como se puede ver a continuación:</strong>
 
     figure(data-aos="zoom-in").mb-5
       img(src="@/assets/curso/temas/tema1/t1_11.svg", alt="alt")
@@ -186,7 +186,7 @@
           tr
             td Los datos primarios son los datos que de los cuales no se cuenta con información alguna es decir la persona encargada de recolectarlos partirá de cero haciendo un diagnóstico de alguna fuente verídica también conocida como (fuente primaria). Para el caso de #[i marketing], las fuentes primarias se pueden tomar como referencia con el fin de comprender de manera adecuada; actitudes, estilos de vida, comportamientos, características, y la percepción del público de una marca los cuales podrán ser consumidores, empleados, socios, competidores entre otros, la idea principal es obtener los datos, estos se podrán obtener de varias formas, sitios web, encuestas, entrevistas de acuerdo a un grupo especifico de consumidores; con el fin generar un feedback de datos primarios los cuales pueden atender los requerimientos físicos de una propuesta que se esté desarrollando.
   
-            td Los datos secundarios son datos que de alguna manera otras organizaciones ya han buscado con fines distintos a la indagación existente. Es decir, ya están de forma accesible y solo necesitan ser encontrados por el o los expertos en el tema.  En el dominio de #[i marketing], estos datos no se recopilaron con fines de investigación en curso, por lo general permiten ver comportamientos y características demográficos generales en lugar de una audiencia de alguna marca específica. Sin embargo, de esta manera se pueden identificar tendencias clave del mercado que pueden verse reflejadas en la audiencia de una marca, producto o servicio..
+            td Los datos secundarios son datos que de alguna manera otras organizaciones ya han buscado con fines distintos a la indagación existente. Es decir, ya están de forma accesible y solo necesitan ser encontrados por el o los expertos en el tema.  En el dominio de #[i marketing], estos datos no se recopilaron con fines de investigación en curso, por lo general permiten ver comportamientos y características demográficos generales en lugar de una audiencia de alguna marca específica. Sin embargo, de esta manera se pueden identificar tendencias clave del mercado que pueden verse reflejadas en la audiencia de una marca, producto o servicio.
               
           tr.cell--grayBlue
             td(style="font-size:1.125em;").text-center <strong>Ventajas y desventajasde los datos primarios</strong>
@@ -247,7 +247,7 @@
           .col-lg-6.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
             .number(data-number="01") 
               h4.ps-4 Mejor imagen   
-              p.ps-4.mb-0 los datos de calidad se pueden utilizar para evaluar cómo los usuarios de un producto o servicio perciben una organización, con base en ello se puede utilizar esta información para mejorar esta visión. Esto se hace sin dejar la esencia de la unidad es decir colores, fuentes eslogan etc., creando nuevas previsiones con el fin de mejorar la imagen corporativa de la organización.                    
+              p.ps-4.mb-0 Los datos de calidad se pueden utilizar para evaluar cómo los usuarios de un producto o servicio perciben una organización, con base en ello se puede utilizar esta información para mejorar esta visión. Esto se hace sin dejar la esencia de la unidad es decir colores, fuentes eslogan etc., creando nuevas previsiones con el fin de mejorar la imagen corporativa de la organización.                    
           .col-lg-4.col-6
             figure
               img(src='@/assets/curso/temas/tema1/t1_18.svg')  
@@ -328,7 +328,7 @@
       .row.justify-content-center.mb-5
         .col-lg-8
           .white--right
-            p El análisis de datos es la ciencia encargada de examinar un conjunto de datos para deducir información, tomar decisiones o simplemente aumentar el conocimiento sobre algún tema de interés en particular. El análisis de datos consiste en enviar datos a la elaboración de operaciones para llegar a conclusiones precisas que ayuden a lograr los objetivos tal como lo dice QuestioPro (2020), “el análisis de datos es la ciencia que se encarga de examinar un conjunto de datos con el propósito de sacar conclusiones sobre la información para poder tomar decisiones, o simplemente ampliar los conocimientos sobre diversos temas”. Estas operaciones no se pueden precisar puesto que la recolección de datos puede revelar problemas específicos. Hoy en día, muchas industrias utilizan el análisis de datos para obtener conclusiones y tomar medidas para la implementación. Vale la pena señalar que la ciencia también utiliza el análisis de datos para probar o excluir teorías y modelos existentes
+            p El análisis de datos es la ciencia encargada de examinar un conjunto de datos para deducir información, tomar decisiones o simplemente aumentar el conocimiento sobre algún tema de interés en particular. El análisis de datos consiste en enviar datos a la elaboración de operaciones para llegar a conclusiones precisas que ayuden a lograr los objetivos tal como lo dice QuestioPro (2020), “el análisis de datos es la ciencia que se encarga de examinar un conjunto de datos con el propósito de sacar conclusiones sobre la información para poder tomar decisiones, o simplemente ampliar los conocimientos sobre diversos temas”. Estas operaciones no se pueden precisar puesto que la recolección de datos puede revelar problemas específicos. Hoy en día, muchas industrias utilizan el análisis de datos para obtener conclusiones y tomar medidas para la implementación. Vale la pena señalar que la ciencia también utiliza el análisis de datos para probar o excluir teorías y modelos existentes.
             .row
               .col-auto
                 figure
@@ -382,7 +382,7 @@
           tr
             td Este tipo de datos se presentan verbalmente (a veces se muestran gráficamente). Basados en la interpretación, la manera más apropiada de alcanzar esta información es a través de entrevistas públicas, los grupos focales y los grupos de observación. Con estos métodos, los expertos en datos suelen analizar modelos de observación a lo largo de la fase de adquisición de datos.
 
-            td Este tipo de datos se muestran en formato numérico. basados en resultados tangibles, dicho análisis de datos se fundamente en lograr conclusiones de lo que es conocido por el experto, para la recopilación de estos datos se debe priorizar cómo está planeada la información para analizarla y priorizarla. Las tecnologías más frecuentes para los expertos pueden proporcionar una gran cantidad de tiempo y grandes beneficios, como el dinero, por lo que se puede hacer una encuesta en línea.
+            td Este tipo de datos se muestran en formato numérico. Basados en resultados tangibles, dicho análisis de datos se fundamente en lograr conclusiones de lo que es conocido por el experto, para la recopilación de estos datos se debe priorizar cómo está planeada la información para analizarla y priorizarla. Las tecnologías más frecuentes para los expertos pueden proporcionar una gran cantidad de tiempo y grandes beneficios, como el dinero, por lo que se puede hacer una encuesta en línea.
 
     p.mb-5 #[strong La razón de realizar la recolección de datos con técnicas se basa en unos beneficios sustanciales que son los siguientes:]
 

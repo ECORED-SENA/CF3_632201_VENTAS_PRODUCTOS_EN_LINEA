@@ -169,7 +169,7 @@
                   img(src="@/assets/curso/temas/tema3/t3_09.svg", alt="alt").img90
               .col
                 h4.text-white Tipos de formatos abiertos y cerrados
-                p.text-white.mb-5 Un formato abierto es aquel donde las especificaciones del software están disponibles para cualquier persona, de forma gratuita, así cualquiera puede usar dichas especificaciones en su propio software sin ninguna limitación en su reutilización que fuere impuesta por derechos de propiedad intelectual. Si el formato de archivo es cerrado podría utilizarse, independientemente que este formato cuente con un propietario el cual puede restringir su uso y no permite ser manipulado.      
+                p.text-white.mb-5 Un formato abierto es aquel donde las especificaciones del <i>software</i> están disponibles para cualquier persona, de forma gratuita, así cualquiera puede usar dichas especificaciones en su propio <i>software</i> sin ninguna limitación en su reutilización que fuere impuesta por derechos de propiedad intelectual. Si el formato de archivo es cerrado podría utilizarse, independientemente que este formato cuente con un propietario el cual puede restringir su uso y no permite ser manipulado.      
             
             
 
@@ -177,7 +177,7 @@
       .row.m-0.align-items-center.justify-content-between        
         .col-12
           .bloque-texto-a__texto.p-4
-            p.mb-0 #[strong Al crear, procesar y administrar datos investigativos, se debe comprender con qué formato está trabajando. Los formatos por lo general están vinculados a software y hardware específicos, por lo que la reutilización futura depende de la disponibilidad a mediano y largo plazo. Por lo tanto, al usar un formato cerrado, se debe recordar el obtener el software apropiado que se necesita para poder actualizarlo y acceder a este en el momento que se requiera sin que tenga algún limitante.]
+            p.mb-0 #[strong Al crear, procesar y administrar datos investigativos, se debe comprender con qué formato está trabajando. Los formatos por lo general están vinculados a #[i software] y hardware específicos, por lo que la reutilización futura depende de la disponibilidad a mediano y largo plazo. Por lo tanto, al usar un formato cerrado, se debe recordar el obtener el #[i software] apropiado que se necesita para poder actualizarlo y acceder a este en el momento que se requiera sin que tenga algún limitante.]
 
     separador
 
@@ -238,6 +238,8 @@
       .col-lg-8(data-aos="fade-in")
         .gray--right          
           p #[strong Con respecto a los datos personales del cliente (la persona que compró/adquirió el producto o recibió el servicio), podrán ser tratados para relacionarse y posteriormente comunicarse con el cliente, o simplemente para hacer la entrega del producto, de igual forma también se proporcionara el servicio postventa y envío de recordatorios de citas y reuniones.] Las opciones de contacto son diversas, por el solo motivo de ser clientes no se podrá enviarles publicidad y #[i marketing] sin su consentimiento previo, sin embargo, se debe tener en cuenta que solo se podrá enviar los servicios ofertados o productos del sector en el que hay un desempeño. #[strong Cuando se obtienen los datos de un cliente es muy importante tener un soporte de que en algún momento hubo un contacto para informarles que se les enviará publicidad o #[i marketing] de un servicio, bien o producto, no importa cómo se les envíe la información comercial, siempre debe se proporcionada de una manera clara y fácil.] Se debe tener presente que la base de datos no se puede transferir a otra empresa.
+
+    p.mb-4 Para poder enviar anuncios de un producto o servicio a una persona vía SMS y que esta no sea un cliente se debe tener un consentimiento explícito y claro. Además, para poder probar más adelante que efectivamente se obtuvo de esa manera. En cualquiera de los casos, se deberá informar de lo dispuesto en las dos reglas anteriores antes de que los interesados se pongan de acuerdo. Por lo tanto, primero se debe notificar y luego buscar el consentimiento.
 
     .bloque-texto-a.clr--01.p-4.p-md-5.mb-5(data-aos="fade-in").mb-5
       .row.m-0.align-items-center.justify-content-between        
