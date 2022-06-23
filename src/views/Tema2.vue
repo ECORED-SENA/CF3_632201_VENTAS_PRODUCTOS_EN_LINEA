@@ -371,14 +371,14 @@
               figure
                 img(src="@/assets/curso/temas/tema2/t2_30.svg", alt="alt").img90
             .col-lg
-              p.mb-0 Abarcan muchos canales, tales como, página de destino, #[i marketing] por correo electrónico y flujo de automatización de correo electrónico. Esto simplifica y amplía la gestión de leads en su embudo de comercialización, esto es simplemente la ampliación en el volumen de leads que estén listos para realizar para la compra, y el cual será direccionado al equipo de ventas. 
+              p.mb-0 Abarcan muchos canales, tales como, página de destino, #[i marketing] por correo electrónico y flujo de automatización de correo electrónico. Esto simplifica y amplía la gestión de #[i leads] en su embudo de comercialización, esto es simplemente la ampliación en el volumen de #[i leads] que estén listos para realizar para la compra, y el cual será direccionado al equipo de ventas. 
 
           .row.justify-content-center(numero="2" titulo="Herramienta de <i>Email Marketing</i>")
             .col-auto.pt-2.mb-3
               figure
                 img(src="@/assets/curso/temas/tema2/t2_31.svg", alt="alt").img90
             .col-lg
-              p.mb-0 Podría decirse que es principal canal de comunicación y de relaciones con el cliente, porque después del primer contacto tiene con la organización, este se convierte en lead. 
+              p.mb-0 Podría decirse que es principal canal de comunicación y de relaciones con el cliente, porque después del primer contacto tiene con la organización, este se convierte en #[i lead]. 
 
           .row.justify-content-center(numero="3" titulo="Herramienta para creación de <i>landing pages</i>")
             .col-auto.pt-2.mb-3
@@ -392,14 +392,14 @@
               figure
                 img(src="@/assets/curso/temas/tema2/t2_37.svg", alt="alt").img90
             .col-lg
-              p.mb-0 La mayoría de las organizaciones aún no han utilizado la plataforma adecuada para registrar y documentar cuáles serían las estrategias de planificación y elaboración de contenido adecuadas. Estas herramientas de contenidos podrán agilizar los procesos. Desde la gestión de blogs hasta la creación de publicaciones, lo que le permitirá ahorrar tiempo y aumentar la eficiencia.
+              p.mb-0 La mayoría de las organizaciones aún no han utilizado la plataforma adecuada para registrar y documentar cuáles serían las estrategias de planificación y elaboración de contenido adecuadas. Estas herramientas de contenidos podrán agilizar los procesos. Desde la gestión de #[i blogs] hasta la creación de publicaciones, lo que le permitirá ahorrar tiempo y aumentar la eficiencia.
 
           .row.justify-content-center(numero="5" titulo="Herramienta de SEO (<i>Search Engine Optimization</i>)")
             .col-auto.pt-2.mb-3
               figure
                 img(src="@/assets/curso/temas/tema2/t2_33.svg", alt="alt").img90
             .col.pt-2.mb-3
-              p.mb-0 Contemplan como objetivo principal el ayudar a las organizaciones a mejorar la posición en los buscadores más comunes como Mozilla o Google, dichas plataformas cuentan con diversas funciones las cuales podrán optimizar los sitios por intermedio de análisis y plugins.
+              p.mb-0 Contemplan como objetivo principal el ayudar a las organizaciones a mejorar la posición en los buscadores más comunes como Mozilla o Google, dichas plataformas cuentan con diversas funciones las cuales podrán optimizar los sitios por intermedio de análisis y #[i plugins].
 
           .row.justify-content-center(numero="6" titulo="Herramienta de <i>Analytics</i>")
             .col-auto.pt-2.mb-3
@@ -413,7 +413,7 @@
               figure
                 img(src="@/assets/curso/temas/tema2/t2_35.svg", alt="alt").img90
             .col-lg
-              p.mb-0 Son indispensables para crear blogs y sitios, porque permiten diseñar, editar y publicar diferentes tipos de contenidos, de igual forma permite añadir contenidos divulgados en otras plataformas, como podcasts o videos de YouTube.              
+              p.mb-0 Son indispensables para crear #[i blogs] y sitios, porque permiten diseñar, editar y publicar diferentes tipos de contenidos, de igual forma permite añadir contenidos divulgados en otras plataformas, como podcasts o videos de YouTube.              
 
           .row.justify-content-center(numero="8" titulo="Herramienta de monitorización de redes sociales")
             .col-auto.pt-2.mb-3
@@ -466,7 +466,7 @@
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/temas/tema2/t2_41.svg", alt="alt").img150
             .col-lg
-              p Es un enfoque inbound, para todo el entorno de #[i marketing] y para ventas, la gran mayoría de consumidores y compradores buscan la información de un producto o servicio que les interese a través de una web, Ellos son los que buscan sus necesidades y obtienen la información, y solo contactan con el vendedor cuando tienen la información que necesitan. Por lo tanto, es importante brindarles contenido de alta calidad que sea selecto para ellos y que realmente los apoye a solucionar la dificultad que presenten al momento de hacer una compra.
+              p Es un enfoque #[i inbound], para todo el entorno de #[i marketing] y para ventas, la gran mayoría de consumidores y compradores buscan la información de un producto o servicio que les interese a través de una web, Ellos son los que buscan sus necesidades y obtienen la información, y solo contactan con el vendedor cuando tienen la información que necesitan. Por lo tanto, es importante brindarles contenido de alta calidad que sea selecto para ellos y que realmente los apoye a solucionar la dificultad que presenten al momento de hacer una compra.
 
     .cajon.cjn--azul.p-4.mb-4
       p.mb-0 Por ejemplo, suponga que la variable aleatoria X registra el puntaje de un estudiante seleccionado al azar en una prueba nacional, donde la distribución de la población para el puntaje es normal con una media de 70 y una desviación estándar de 5 (N (70,5)). Dada una muestra aleatoria simple (SRS) de 200 estudiantes, la distribución de la puntuación media de la muestra  tiene una media de 70 y una desviación estándar de 5 / sqrt (200) = 5 / 14,14 = 0,35.

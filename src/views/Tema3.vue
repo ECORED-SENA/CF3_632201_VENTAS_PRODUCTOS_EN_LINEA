@@ -177,7 +177,7 @@
       .row.m-0.align-items-center.justify-content-between        
         .col-12
           .bloque-texto-a__texto.p-4
-            p.mb-0 #[strong Al crear, procesar y administrar datos investigativos, se debe comprender con qué formato está trabajando. Los formatos por lo general están vinculados a #[i software] y hardware específicos, por lo que la reutilización futura depende de la disponibilidad a mediano y largo plazo. Por lo tanto, al usar un formato cerrado, se debe recordar el obtener el #[i software] apropiado que se necesita para poder actualizarlo y acceder a este en el momento que se requiera sin que tenga algún limitante.]
+            p.mb-0 #[strong Al crear, procesar y administrar datos investigativos, se debe comprender con qué formato está trabajando. Los formatos por lo general están vinculados a #[i software] y #[i hardware] específicos, por lo que la reutilización futura depende de la disponibilidad a mediano y largo plazo. Por lo tanto, al usar un formato cerrado, se debe recordar el obtener el #[i software] apropiado que se necesita para poder actualizarlo y acceder a este en el momento que se requiera sin que tenga algún limitante.]
 
     separador
 
