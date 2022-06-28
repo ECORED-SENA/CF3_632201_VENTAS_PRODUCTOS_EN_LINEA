@@ -67,7 +67,7 @@
             p #[span.txt--purple  El #[i marketing] fundamentado en datos] es la herramienta que busca ayudar a los expertos en el tema a desarrollar campañas importantes y de alto impacto a los públicos objetivos y nichos de mercado, debido a que con esta herramienta, se podrán tomar decisiones conscientes y asertivas, dando como resultado una gran demanda de experiencias personalizadas a los clientes en el día a día.
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2GkGn3Mei6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)        
 
     separador
 
