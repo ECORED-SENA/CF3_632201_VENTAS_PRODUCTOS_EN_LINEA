@@ -178,7 +178,7 @@
               figure
                 img(src="@/assets/curso/temas/tema2/t2_15.svg", alt="alt").img125
             .col
-              h4 Alcance organico
+              h4 Alcance orgánico
               p.mb-0 Es el alcance logrado sin el uso de herramientas pagas como los anuncios de la red social Facebook y los anuncios de Instagram, es decir, los temas llegan a los diferentes usuarios de forma natural, por intermedio de la página de inicio o temas compartidos. Este tipo de alcance distingue entre dos tipos, viral, hace énfasis a los alcances que se obtienen por intermedio de las compartidas de información por parte de los usuarios y el no viral son las visualizaciones que se consiguen sin necesidad de que el contenido haya sido compartido por algún usuario determinado. 
       .col-12.col-lg-10
         .crd.crd-avatarH(data-aos="zoom-in")
@@ -193,7 +193,7 @@
     separador
 
     #t_2_4.titulo-segundo.color-acento-contenido
-      h2 2.4 tráfico
+      h2 2.4 Tráfico
 
     p #[strong Para el comercio electrónico, es importante comprender el tráfico, es decir, monitorear la cantidad de visitantes a una tienda en línea y saber de dónde provienen o cuántos visitantes] son; elementos como el anterior son muy importantes porque brindan información sobre dónde navegan los usuarios y cómo encontraron el sitio. Este tipo de información es muy útil en la planificación y desarrollo de las campañas de #[i marketing] y publicidad.
 
@@ -335,7 +335,7 @@
               figure
                 img(src="@/assets/curso/temas/tema2/t2_26.png", alt="alt").img90.m-auto
             h4.text-center Formas de trabajar
-            p.text-center.mb-0 Se centran en estructurar equipos agiles y de respuesta a oportuna, exclusivamente para los clientes, haciendo referencia a las tendencias de #[i marketing], teniendo en cuenta las perspectivas de medición y los canales en los que desarrollan.
+            p.text-center.mb-0 Se centran en estructurar equipos ágiles y de respuesta a oportuna, exclusivamente para los clientes, haciendo referencia a las tendencias de #[i marketing], teniendo en cuenta las perspectivas de medición y los canales en los que desarrollan.
 
       .cajon.cjn--purpura.p-4(data-aos="zoom-in")
         p.mb-0 Se espera cada vez más que los gerentes y/o directores de #[i marketing] sean garantes de demostrar la tasa de recuperación de las inversiones de #[i marketing] que impactan directamente en el rendimiento. Depende de ellos engrandecer el nivel apoyando las mejores prácticas, inclinando a los equipos para que articulen acciones juntos. De esta manera, el método de medición estará en capacidad de dar a una empresa una ventaja decisiva en la lucha por mantener a los clientes y hacer que regresen en busca de más.
@@ -379,7 +379,7 @@
               figure
                 img(src="@/assets/curso/temas/tema2/t2_31.svg", alt="alt").img90
             .col-lg
-              p.mb-0 Podría decirse que es principal canal de comunicación y de relaciones con el cliente, porque después del primer contacto tiene con la organización, este se convierte en #[i lead]. 
+              p.mb-0 Podría decirse que es principal canal de comunicación y de relaciones con el cliente, porque después del primer contacto que tiene con la organización, este se convierte en #[i lead]. 
 
           .row.justify-content-center(numero="3" titulo="Herramienta para creación de <i>landing pages</i>")
             .col-auto.pt-2.mb-3

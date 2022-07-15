@@ -12,7 +12,7 @@
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema1/t1_01.png", alt="alt")
       .col-lg-8(data-aos="fade-in")
-        p El desarrollo de Internet permite evidenciar una nueva tendencia de informar o de comunicarse entre sí, la manera en que se digitalizan la información y los datos generados de acuerdo a un tema determinado, supone la invención de diversas herramientas que puedan analizar y medir cada interacción, siendo necesario interpretar un sin número de datos para avanzar y asegurar la correcta toma de decisiones.
+        p El desarrollo de Internet permite evidenciar una nueva tendencia de informar o de comunicarse entre sí, la manera en que se digitaliza la información y los datos generados de acuerdo a un tema determinado, supone la invención de diversas herramientas que puedan analizar y medir cada interacción, siendo necesario interpretar un sin número de datos para avanzar y asegurar la correcta toma de decisiones.
         .cajon.cjn--mint.p-4
           p.mb-0 El <i>marketing</i> que se basa en datos hace referencia a una estrategia fundamentada en los conocimientos recopilados a partir del análisis de <i>Big Data</i>, sintetizando de las interacciones los clientes objetivos, con el fin de mapear la conducta futura esperada de un producto determinado. Esto implica comprender los datos que tiene una organización y la forma en que se pueden organizan, analizar y aplicar dichos datos buscando minimizar los costos de #[i marketing] cuando se tienen altos volúmenes de datos, los expertos del #[i marketing] están en capacidad de contar con toda la información, analizarla y tomar decisiones adecuadas para la organización, porque estas decisiones son respaldadas por la veracidad de los datos, los cuales permiten tener presentes las necesidades prioritarias, minimizar riesgos y obtener un punto de mejora constante. Para ello es muy importante la correcta selección de datos. 
 
@@ -147,7 +147,7 @@
           p.mb-0 #[span.hg--purple02 “Es importante tener en cuenta que los datos primarios y datos secundarios en el mundo del #[i marketing] desarrollan una función vital e importante dentro de un proceso de planificación puesto que estos se utilizan de base para los análisis de mercados y decisiones estratégicas de un área de cualquier organización”] #[span.txt--purple Joyanes (2013)], todo lo anterior orientado a un solo fin y es que los productos y las campañas que constantemente se realizan sean realmente eficientes, arrojando resultados de alto impacto dentro de la organización. Se debe tener un conocimiento previo de que son los datos primarios y los datos secundarios de marketing y cuál es su utilidad.
 
     .cajon.cjn--purpura.p-4.mb-4(data-aos="fade-in")
-      p.mb-0 Dentro de un proceso de planificación en referencia a las ventas en línea, los datos primarios y secundarios son esenciales para la investigación del mercado, puesto que ayudarán a comprender mejor a los consumidores, el ¿cómo puede segmentar su audiencia? Comprender su comportamiento y expectativas, y comprender ¿cuál fue la reaccionan a la estrategia de marca? Puede extraer diferentes conocimientos y crear #[i marketing] de manera más precisa y eficiente gracias a estos elementos.
+      p.mb-0 Dentro de un proceso de planificación en referencia a las ventas en línea, los datos primarios y secundarios son esenciales para la investigación del mercado, puesto que ayudarán a comprender mejor a los consumidores, el ¿cómo puede segmentar su audiencia? Comprender su comportamiento y expectativas, y comprender ¿cuál fue la reacción a la estrategia de marca? Puede extraer diferentes conocimientos y crear #[i marketing] de manera más precisa y eficiente gracias a estos elementos.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -415,7 +415,7 @@
           .crd.crd--white
             figure.mb-4
               img(src="@/assets/curso/temas/tema1/t1_33.svg", alt="alt").img90.m-auto            
-            p.text-center.mb-0 Permite verse visualmente, permitiendo una toma de decisiones efectiva, rápida y ajustada a la necesidad.
+            p.text-center.mb-0 Permite la visualización para una toma de decisiones efectiva, rápida y ajustada a la necesidad.
 
           .crd.crd--white
             figure.mb-4
